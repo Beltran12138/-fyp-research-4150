@@ -8,14 +8,8 @@
 ### 📂 Project Documents
 Click below to view the detailed research reports:
 
-- **📄 [2.1 Secondary Research](2.1_Secondary_Research.md)**  
-  *Analysis of Hong Kong's Web3 policy landscape, market demographics, and the "Trust Paradox."*
-
-- **💻 [2.1.1 Computational Social Listening](2.1.1_Computational_Social_Listening.md)**  
+- **📄 [2.1 Secondary Research](2.1_Secondary_Research.md)**   
   *Methodology (Python/NLP), technical framework, and sentiment analysis findings.*
-
-- **📊 [Visualization Analysis Report](2.1.1_Visualizations_Output.md)**  
-  *Deep dive into the charts and strategic insights.*
 
 - **🐍 [Python Source Code](generate_visualizations.py)**  
   *The script used to generate the data visualizations.*
