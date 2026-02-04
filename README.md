@@ -1,7 +1,6 @@
 # COMM4150 FYP: Re-coding Trust
 ## Secondary Research & Computational Social Listening Dashboard
 
-**Student:** ZHAO Han (1155191400)  
 **Project:** Re-coding Trust: 2026 Bitcoin Pizza Day PR Campaign for HashKey Exchange
 
 ---
@@ -42,7 +41,7 @@ Click below to view the detailed research reports:
 ### 🛠 Tech Stack
 * **Language:** Python 3.9+
 * **Libraries:** `Tweepy`, `TextBlob`, `Jieba`, `WordCloud`, `Matplotlib`, `Pandas`
-* **Data Sources:** Twitter/X API, LIHKG, Telegram
+* **Data Sources:** Reddit & LIHKG
 
 ---
 *Generated for COMM4150 Senior Research Project (2025-2026)*
