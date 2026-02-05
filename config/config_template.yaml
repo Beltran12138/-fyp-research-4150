@@ -1,0 +1,25 @@
+# HashKey Social Listening Configuration Template
+
+# API Credentials (Placeholders)
+twitter:
+  api_key: "YOUR_API_KEY"
+  api_secret: "YOUR_API_SECRET"
+  access_token: "YOUR_ACCESS_TOKEN"
+  access_token_secret: "YOUR_ACCESS_TOKEN_SECRET"
+
+telegram:
+  api_id: "YOUR_API_ID"
+  api_hash: "YOUR_API_HASH"
+
+# Search Parameters
+search_keywords:
+  - "#HashKey"
+  - "#HKWeb3"
+  - "#BitcoinPizzaDay"
+  - "#VATP"
+  - "Bitcoin Pizza Day"
+
+# Analysis Settings
+sentiment_thresholds:
+  positive: 0.2
+  negative: -0.2
