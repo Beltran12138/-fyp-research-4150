@@ -46,10 +46,10 @@ def main():
     engine = VisualizationEngine(output_dir=output_dir)
     
     logger.info("Generating WordCloud from NLP tokens...")
-    engine.generate_pain_points_wordcloud()
+    engine.generate_pain_points_wordcloud(df_processed)
     
     logger.info("Generating Sentiment Trends from processed timelines...")
-    engine.generate_sentiment_trend()
+    engine.generate_sentiment_trend(df_processed)
     
     logger.info("Generating KOL Influence Matrix...")
     engine.generate_influencer_matrix()
