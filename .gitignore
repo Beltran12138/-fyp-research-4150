@@ -18,5 +18,7 @@ env/
 
 # Data and logs
 *.log
-data/raw/*
-!data/raw/.gitkeep
+data/processed/*.csv
+# We keep data/raw/social_feed_archived.csv for out-of-the-box demo
+# but ignore other potential large raw files
+data/raw/temp_*
