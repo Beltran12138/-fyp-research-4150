@@ -1,0 +1,501 @@
+id,timestamp,platform,user,content,simulated_sentiment,analyzed_sentiment
+raw_0000,2025-05-15 20:00:00,Twitter,crypto_user_790,Checking out the new HashKey update. #HKWeb3 #Crypto,0.0,0.0
+raw_0001,2025-05-29 15:00:00,Telegram,crypto_user_528,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.27,0.27
+raw_0002,2025-05-11 17:00:00,Telegram,crypto_user_664,No USDT pairs? This is so restrictive for active traders.,-0.39,-0.39
+raw_0003,2025-05-27 08:00:00,LIHKG,crypto_user_520,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.35,0.35
+raw_0004,2025-05-22 05:00:00,Twitter,crypto_user_362,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.67,0.67
+raw_0005,2025-05-01 01:00:00,Twitter,crypto_user_889,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.0,-0.0
+raw_0006,2025-05-20 04:00:00,LIHKG,crypto_user_879,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.47,0.47
+raw_0007,2025-05-02 03:00:00,Twitter,crypto_user_840,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.09,-0.09
+raw_0008,2025-05-02 09:00:00,LIHKG,crypto_user_114,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.54,0.54
+raw_0009,2025-05-24 14:00:00,Twitter,crypto_user_172,High fees on licensed exchanges compared to DEXs. Why bother?,-0.33,-0.33
+raw_0010,2025-05-10 23:00:00,LIHKG,crypto_user_508,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.36,0.36
+raw_0011,2025-05-07 21:00:00,Twitter,crypto_user_312,No USDT pairs? This is so restrictive for active traders.,-0.77,-0.77
+raw_0012,2025-05-12 13:00:00,Twitter,crypto_user_959,SFC's new guidelines on VATP are out. Interesting developments.,-0.08,-0.08
+raw_0013,2025-05-04 18:00:00,Telegram,crypto_user_227,Bitcoin price holding steady at $100k. #BTC,0.05,0.05
+raw_0014,2025-05-21 18:00:00,Telegram,crypto_user_195,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.7,0.7
+raw_0015,2025-05-24 16:00:00,Telegram,crypto_user_190,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.22,0.22
+raw_0016,2025-05-18 01:00:00,Twitter,crypto_user_141,Anyone using HashKey for institutional custody? Looking for reviews.,-0.04,-0.04
+raw_0017,2025-05-05 19:00:00,LIHKG,crypto_user_680,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.64,0.64
+raw_0018,2025-05-12 17:00:00,Telegram,crypto_user_784,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.08,0.08
+raw_0019,2025-05-09 23:00:00,Telegram,crypto_user_593,Bitcoin price holding steady at $100k. #BTC,0.05,0.05
+raw_0020,2025-05-20 17:00:00,Telegram,crypto_user_883,Withdrawal took longer than expected. Still better than nothing I guess.,-0.69,-0.69
+raw_0021,2025-05-23 21:00:00,LIHKG,crypto_user_559,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.26,0.26
+raw_0022,2025-05-21 03:00:00,Twitter,crypto_user_331,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.39,-0.39
+raw_0023,2025-05-22 19:00:00,LIHKG,crypto_user_530,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.63,0.63
+raw_0024,2025-05-08 06:00:00,Telegram,crypto_user_395,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.73,0.73
+raw_0025,2025-05-14 10:00:00,Twitter,crypto_user_959,HashKey vs OSL - which one has better liquidity?,0.03,0.03
+raw_0026,2025-05-26 09:00:00,Twitter,crypto_user_737,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.09,-0.09
+raw_0027,2025-05-12 20:00:00,LIHKG,crypto_user_472,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.28,0.28
+raw_0028,2025-05-01 05:00:00,Telegram,crypto_user_819,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.13,0.13
+raw_0029,2025-05-24 08:00:00,Telegram,crypto_user_502,Anyone using HashKey for institutional custody? Looking for reviews.,-0.04,-0.04
+raw_0030,2025-05-10 14:00:00,LIHKG,crypto_user_341,Bitcoin price holding steady at $100k. #BTC,0.01,0.01
+raw_0031,2025-05-17 02:00:00,Twitter,crypto_user_653,Withdrawal took longer than expected. Still better than nothing I guess.,-0.58,-0.58
+raw_0032,2025-05-26 17:00:00,Telegram,crypto_user_850,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.63,0.63
+raw_0033,2025-05-03 22:00:00,LIHKG,crypto_user_871,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.71,0.71
+raw_0034,2025-05-24 18:00:00,LIHKG,crypto_user_194,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.13,0.13
+raw_0035,2025-05-11 00:00:00,Telegram,crypto_user_600,SFC's new guidelines on VATP are out. Interesting developments.,-0.02,-0.02
+raw_0036,2025-05-27 16:00:00,Telegram,crypto_user_205,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.13,0.13
+raw_0037,2025-05-29 15:00:00,Telegram,crypto_user_770,Checking out the new HashKey update. #HKWeb3 #Crypto,0.02,0.02
+raw_0038,2025-05-24 23:00:00,Telegram,crypto_user_955,Bitcoin price holding steady at $100k. #BTC,-0.0,-0.0
+raw_0039,2025-05-18 14:00:00,Twitter,crypto_user_793,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.7,0.7
+raw_0040,2025-05-25 06:00:00,Telegram,crypto_user_610,Anyone using HashKey for institutional custody? Looking for reviews.,-0.0,-0.0
+raw_0041,2025-05-06 05:00:00,Telegram,crypto_user_221,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.42,0.42
+raw_0042,2025-05-23 22:00:00,Twitter,crypto_user_204,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.39,0.39
+raw_0043,2025-05-05 20:00:00,LIHKG,crypto_user_550,Checking out the new HashKey update. #HKWeb3 #Crypto,0.03,0.03
+raw_0044,2025-05-11 12:00:00,LIHKG,crypto_user_609,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.06,-0.06
+raw_0045,2025-05-24 08:00:00,Telegram,crypto_user_132,SFC's new guidelines on VATP are out. Interesting developments.,0.06,0.06
+raw_0046,2025-05-06 20:00:00,Telegram,crypto_user_148,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.79,-0.79
+raw_0047,2025-05-16 18:00:00,LIHKG,crypto_user_867,Anyone using HashKey for institutional custody? Looking for reviews.,0.06,0.06
+raw_0048,2025-05-26 23:00:00,LIHKG,crypto_user_723,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.69,0.69
+raw_0049,2025-05-05 09:00:00,LIHKG,crypto_user_896,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.31,0.31
+raw_0050,2025-05-26 08:00:00,LIHKG,crypto_user_378,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.06,-0.06
+raw_0051,2025-05-26 03:00:00,Twitter,crypto_user_400,HashKey vs OSL - which one has better liquidity?,-0.08,-0.08
+raw_0052,2025-05-26 18:00:00,Telegram,crypto_user_634,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.74,0.74
+raw_0053,2025-05-16 07:00:00,Twitter,crypto_user_804,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.77,0.77
+raw_0054,2025-05-25 16:00:00,Twitter,crypto_user_520,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.24,0.24
+raw_0055,2025-05-21 08:00:00,Twitter,crypto_user_128,No USDT pairs? This is so restrictive for active traders.,-0.8,-0.8
+raw_0056,2025-05-03 07:00:00,LIHKG,crypto_user_931,Withdrawal took longer than expected. Still better than nothing I guess.,-0.51,-0.51
+raw_0057,2025-05-18 20:00:00,Twitter,crypto_user_517,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.29,0.29
+raw_0058,2025-05-17 23:00:00,Twitter,crypto_user_363,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.03,-0.03
+raw_0059,2025-05-28 22:00:00,Telegram,crypto_user_573,HashKey vs OSL - which one has better liquidity?,-0.05,-0.05
+raw_0060,2025-05-11 17:00:00,LIHKG,crypto_user_766,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.19,0.19
+raw_0061,2025-05-07 03:00:00,LIHKG,crypto_user_894,Withdrawal took longer than expected. Still better than nothing I guess.,-0.62,-0.62
+raw_0062,2025-05-19 07:00:00,LIHKG,crypto_user_919,High fees on licensed exchanges compared to DEXs. Why bother?,-0.36,-0.36
+raw_0063,2025-05-01 08:00:00,Telegram,crypto_user_604,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.68,0.68
+raw_0064,2025-05-16 17:00:00,LIHKG,crypto_user_133,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.32,0.32
+raw_0065,2025-05-07 20:00:00,Twitter,crypto_user_980,High fees on licensed exchanges compared to DEXs. Why bother?,-0.72,-0.72
+raw_0066,2025-05-30 22:00:00,Telegram,crypto_user_652,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.32,0.32
+raw_0067,2025-05-18 05:00:00,LIHKG,crypto_user_720,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.24,0.24
+raw_0068,2025-05-23 08:00:00,Telegram,crypto_user_891,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.16,-0.16
+raw_0069,2025-05-18 11:00:00,Telegram,crypto_user_984,High fees on licensed exchanges compared to DEXs. Why bother?,-0.3,-0.3
+raw_0070,2025-05-05 06:00:00,Twitter,crypto_user_186,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.57,-0.57
+raw_0071,2025-05-28 14:00:00,Telegram,crypto_user_300,Bitcoin price holding steady at $100k. #BTC,-0.09,-0.09
+raw_0072,2025-05-07 23:00:00,LIHKG,crypto_user_183,Withdrawal took longer than expected. Still better than nothing I guess.,-0.48,-0.48
+raw_0073,2025-05-09 02:00:00,Telegram,crypto_user_837,Anyone using HashKey for institutional custody? Looking for reviews.,-0.07,-0.07
+raw_0074,2025-05-27 21:00:00,LIHKG,crypto_user_970,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.34,-0.34
+raw_0075,2025-05-29 20:00:00,LIHKG,crypto_user_609,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.13,0.13
+raw_0076,2025-05-30 18:00:00,Telegram,crypto_user_354,High fees on licensed exchanges compared to DEXs. Why bother?,-0.62,-0.62
+raw_0077,2025-05-03 03:00:00,LIHKG,crypto_user_965,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.46,-0.46
+raw_0078,2025-05-15 22:00:00,Twitter,crypto_user_709,High fees on licensed exchanges compared to DEXs. Why bother?,-0.43,-0.43
+raw_0079,2025-05-30 22:00:00,Telegram,crypto_user_737,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.66,0.66
+raw_0080,2025-05-30 17:00:00,Telegram,crypto_user_515,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.09,-0.09
+raw_0081,2025-05-20 07:00:00,Twitter,crypto_user_825,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.68,0.68
+raw_0082,2025-05-24 06:00:00,Twitter,crypto_user_794,Anyone using HashKey for institutional custody? Looking for reviews.,0.03,0.03
+raw_0083,2025-05-21 01:00:00,LIHKG,crypto_user_917,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.05,-0.05
+raw_0084,2025-05-07 13:00:00,Twitter,crypto_user_995,No USDT pairs? This is so restrictive for active traders.,-0.65,-0.65
+raw_0085,2025-05-22 17:00:00,Twitter,crypto_user_756,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.6,0.6
+raw_0086,2025-05-27 16:00:00,Twitter,crypto_user_886,Bitcoin price holding steady at $100k. #BTC,-0.02,-0.02
+raw_0087,2025-05-27 09:00:00,Twitter,crypto_user_599,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.49,0.49
+raw_0088,2025-05-18 07:00:00,Telegram,crypto_user_465,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.05,0.05
+raw_0089,2025-05-09 19:00:00,LIHKG,crypto_user_306,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.12,-0.12
+raw_0090,2025-05-07 05:00:00,Telegram,crypto_user_409,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.14,0.14
+raw_0091,2025-05-06 04:00:00,LIHKG,crypto_user_578,SFC's new guidelines on VATP are out. Interesting developments.,-0.05,-0.05
+raw_0092,2025-05-02 23:00:00,Telegram,crypto_user_864,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.46,0.46
+raw_0093,2025-05-23 11:00:00,Twitter,crypto_user_641,High fees on licensed exchanges compared to DEXs. Why bother?,-0.67,-0.67
+raw_0094,2025-05-01 08:00:00,Twitter,crypto_user_111,Checking out the new HashKey update. #HKWeb3 #Crypto,0.01,0.01
+raw_0095,2025-05-29 03:00:00,Telegram,crypto_user_768,High fees on licensed exchanges compared to DEXs. Why bother?,-0.4,-0.4
+raw_0096,2025-05-08 09:00:00,LIHKG,crypto_user_185,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.64,0.64
+raw_0097,2025-05-17 10:00:00,LIHKG,crypto_user_360,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.37,-0.37
+raw_0098,2025-05-03 06:00:00,LIHKG,crypto_user_371,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.66,0.66
+raw_0099,2025-05-17 18:00:00,Telegram,crypto_user_843,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.49,0.49
+raw_0100,2025-05-07 01:00:00,LIHKG,crypto_user_833,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.79,-0.79
+raw_0101,2025-05-23 23:00:00,Telegram,crypto_user_162,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.04,0.04
+raw_0102,2025-05-22 18:00:00,LIHKG,crypto_user_497,High fees on licensed exchanges compared to DEXs. Why bother?,-0.27,-0.27
+raw_0103,2025-05-01 13:00:00,Twitter,crypto_user_705,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.23,0.23
+raw_0104,2025-05-15 01:00:00,LIHKG,crypto_user_262,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.26,0.26
+raw_0105,2025-05-24 13:00:00,Telegram,crypto_user_722,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.44,-0.44
+raw_0106,2025-05-22 19:00:00,LIHKG,crypto_user_246,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.63,0.63
+raw_0107,2025-05-07 21:00:00,Telegram,crypto_user_690,SFC's new guidelines on VATP are out. Interesting developments.,0.01,0.01
+raw_0108,2025-05-17 17:00:00,Telegram,crypto_user_829,HashKey vs OSL - which one has better liquidity?,0.03,0.03
+raw_0109,2025-05-17 16:00:00,LIHKG,crypto_user_858,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.7,0.7
+raw_0110,2025-05-26 16:00:00,Telegram,crypto_user_149,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.56,0.56
+raw_0111,2025-05-01 00:00:00,Telegram,crypto_user_286,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.06,-0.06
+raw_0112,2025-05-22 14:00:00,Telegram,crypto_user_496,SFC's new guidelines on VATP are out. Interesting developments.,-0.08,-0.08
+raw_0113,2025-05-02 19:00:00,Telegram,crypto_user_934,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.53,0.53
+raw_0114,2025-05-12 02:00:00,LIHKG,crypto_user_361,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.31,0.31
+raw_0115,2025-05-22 15:00:00,Twitter,crypto_user_723,Bitcoin price holding steady at $100k. #BTC,-0.06,-0.06
+raw_0116,2025-05-14 08:00:00,Twitter,crypto_user_368,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.34,-0.34
+raw_0117,2025-05-06 16:00:00,LIHKG,crypto_user_504,Bitcoin price holding steady at $100k. #BTC,0.07,0.07
+raw_0118,2025-05-29 10:00:00,Telegram,crypto_user_272,High fees on licensed exchanges compared to DEXs. Why bother?,-0.15,-0.15
+raw_0119,2025-05-17 04:00:00,Telegram,crypto_user_343,Anyone using HashKey for institutional custody? Looking for reviews.,-0.08,-0.08
+raw_0120,2025-05-26 00:00:00,Telegram,crypto_user_692,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.41,-0.41
+raw_0121,2025-05-16 10:00:00,Telegram,crypto_user_316,SFC's new guidelines on VATP are out. Interesting developments.,-0.09,-0.09
+raw_0122,2025-05-12 03:00:00,LIHKG,crypto_user_863,SFC's new guidelines on VATP are out. Interesting developments.,-0.07,-0.07
+raw_0123,2025-05-18 11:00:00,LIHKG,crypto_user_929,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.16,-0.16
+raw_0124,2025-05-01 05:00:00,LIHKG,crypto_user_412,No USDT pairs? This is so restrictive for active traders.,-0.33,-0.33
+raw_0125,2025-05-08 07:00:00,Twitter,crypto_user_228,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.23,0.23
+raw_0126,2025-05-26 09:00:00,Twitter,crypto_user_970,No USDT pairs? This is so restrictive for active traders.,-0.4,-0.4
+raw_0127,2025-05-11 17:00:00,Telegram,crypto_user_913,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.62,0.62
+raw_0128,2025-05-31 12:00:00,Telegram,crypto_user_732,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.41,0.41
+raw_0129,2025-05-31 23:00:00,Twitter,crypto_user_252,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.41,0.41
+raw_0130,2025-05-16 23:00:00,Twitter,crypto_user_545,HashKey vs OSL - which one has better liquidity?,-0.04,-0.04
+raw_0131,2025-05-06 01:00:00,LIHKG,crypto_user_807,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.59,0.59
+raw_0132,2025-05-06 10:00:00,LIHKG,crypto_user_862,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.77,0.77
+raw_0133,2025-05-05 01:00:00,Twitter,crypto_user_498,Anyone using HashKey for institutional custody? Looking for reviews.,-0.05,-0.05
+raw_0134,2025-05-29 23:00:00,Twitter,crypto_user_173,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.51,-0.51
+raw_0135,2025-05-27 07:00:00,Telegram,crypto_user_519,Bitcoin price holding steady at $100k. #BTC,-0.1,-0.1
+raw_0136,2025-05-15 15:00:00,LIHKG,crypto_user_149,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.43,0.43
+raw_0137,2025-05-31 10:00:00,Twitter,crypto_user_114,Anyone using HashKey for institutional custody? Looking for reviews.,-0.01,-0.01
+raw_0138,2025-05-23 20:00:00,Telegram,crypto_user_602,Bitcoin price holding steady at $100k. #BTC,-0.08,-0.08
+raw_0139,2025-05-22 05:00:00,Twitter,crypto_user_516,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.35,0.35
+raw_0140,2025-05-26 08:00:00,Telegram,crypto_user_443,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.31,0.31
+raw_0141,2025-05-29 20:00:00,Twitter,crypto_user_650,High fees on licensed exchanges compared to DEXs. Why bother?,-0.79,-0.79
+raw_0142,2025-05-23 13:00:00,LIHKG,crypto_user_922,Checking out the new HashKey update. #HKWeb3 #Crypto,0.04,0.04
+raw_0143,2025-05-24 18:00:00,Twitter,crypto_user_395,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.37,-0.37
+raw_0144,2025-05-22 09:00:00,LIHKG,crypto_user_325,Anyone using HashKey for institutional custody? Looking for reviews.,-0.04,-0.04
+raw_0145,2025-05-28 20:00:00,Twitter,crypto_user_978,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.17,-0.17
+raw_0146,2025-05-10 05:00:00,Telegram,crypto_user_413,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.09,-0.09
+raw_0147,2025-05-15 03:00:00,LIHKG,crypto_user_216,HashKey vs OSL - which one has better liquidity?,0.09,0.09
+raw_0148,2025-05-14 04:00:00,LIHKG,crypto_user_971,Bitcoin price holding steady at $100k. #BTC,-0.04,-0.04
+raw_0149,2025-05-06 06:00:00,LIHKG,crypto_user_214,Anyone using HashKey for institutional custody? Looking for reviews.,-0.01,-0.01
+raw_0150,2025-05-09 18:00:00,Twitter,crypto_user_743,Bitcoin price holding steady at $100k. #BTC,-0.02,-0.02
+raw_0151,2025-05-30 07:00:00,Telegram,crypto_user_407,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.22,0.22
+raw_0152,2025-05-29 00:00:00,LIHKG,crypto_user_730,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.18,0.18
+raw_0153,2025-05-02 17:00:00,LIHKG,crypto_user_526,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.21,0.21
+raw_0154,2025-05-27 13:00:00,LIHKG,crypto_user_399,No USDT pairs? This is so restrictive for active traders.,-0.3,-0.3
+raw_0155,2025-05-14 10:00:00,LIHKG,crypto_user_346,HashKey vs OSL - which one has better liquidity?,0.01,0.01
+raw_0156,2025-05-22 23:00:00,Twitter,crypto_user_273,Checking out the new HashKey update. #HKWeb3 #Crypto,0.08,0.08
+raw_0157,2025-05-04 16:00:00,Twitter,crypto_user_365,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.33,-0.33
+raw_0158,2025-05-19 05:00:00,LIHKG,crypto_user_436,Checking out the new HashKey update. #HKWeb3 #Crypto,0.06,0.06
+raw_0159,2025-05-11 06:00:00,LIHKG,crypto_user_570,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.8,0.8
+raw_0160,2025-05-04 17:00:00,Telegram,crypto_user_718,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.7,-0.7
+raw_0161,2025-05-11 00:00:00,Twitter,crypto_user_838,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.51,0.51
+raw_0162,2025-05-15 22:00:00,Twitter,crypto_user_850,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.61,0.61
+raw_0163,2025-05-25 15:00:00,Twitter,crypto_user_231,Anyone using HashKey for institutional custody? Looking for reviews.,0.04,0.04
+raw_0164,2025-05-12 15:00:00,Telegram,crypto_user_640,Withdrawal took longer than expected. Still better than nothing I guess.,-0.23,-0.23
+raw_0165,2025-05-05 17:00:00,Telegram,crypto_user_246,HashKey vs OSL - which one has better liquidity?,-0.01,-0.01
+raw_0166,2025-05-22 21:00:00,Twitter,crypto_user_370,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.15,-0.15
+raw_0167,2025-05-15 09:00:00,LIHKG,crypto_user_461,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.61,0.61
+raw_0168,2025-05-20 15:00:00,LIHKG,crypto_user_565,No USDT pairs? This is so restrictive for active traders.,-0.69,-0.69
+raw_0169,2025-05-11 10:00:00,Twitter,crypto_user_262,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.14,0.14
+raw_0170,2025-05-15 07:00:00,Telegram,crypto_user_802,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.1,0.1
+raw_0171,2025-05-01 02:00:00,Telegram,crypto_user_920,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.78,0.78
+raw_0172,2025-05-12 18:00:00,Twitter,crypto_user_160,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.41,0.41
+raw_0173,2025-05-17 07:00:00,Telegram,crypto_user_942,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.25,0.25
+raw_0174,2025-05-29 18:00:00,Telegram,crypto_user_934,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.42,0.42
+raw_0175,2025-05-31 07:00:00,Telegram,crypto_user_469,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.43,0.43
+raw_0176,2025-05-19 15:00:00,LIHKG,crypto_user_226,High fees on licensed exchanges compared to DEXs. Why bother?,-0.55,-0.55
+raw_0177,2025-05-01 05:00:00,Telegram,crypto_user_712,HashKey vs OSL - which one has better liquidity?,0.09,0.09
+raw_0178,2025-05-17 07:00:00,Telegram,crypto_user_953,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.24,-0.24
+raw_0179,2025-05-05 07:00:00,LIHKG,crypto_user_523,SFC's new guidelines on VATP are out. Interesting developments.,-0.08,-0.08
+raw_0180,2025-05-08 11:00:00,LIHKG,crypto_user_249,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.33,0.33
+raw_0181,2025-05-29 02:00:00,Twitter,crypto_user_315,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.01,-0.01
+raw_0182,2025-05-23 13:00:00,Twitter,crypto_user_107,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.16,0.16
+raw_0183,2025-05-15 12:00:00,Twitter,crypto_user_334,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.21,0.21
+raw_0184,2025-05-10 06:00:00,Twitter,crypto_user_972,Checking out the new HashKey update. #HKWeb3 #Crypto,0.08,0.08
+raw_0185,2025-05-27 16:00:00,Telegram,crypto_user_623,Checking out the new HashKey update. #HKWeb3 #Crypto,0.01,0.01
+raw_0186,2025-05-26 07:00:00,Telegram,crypto_user_459,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.13,0.13
+raw_0187,2025-05-28 10:00:00,Twitter,crypto_user_246,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.59,-0.59
+raw_0188,2025-05-19 14:00:00,Telegram,crypto_user_365,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.7,0.7
+raw_0189,2025-05-24 12:00:00,LIHKG,crypto_user_614,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.66,0.66
+raw_0190,2025-05-30 20:00:00,Telegram,crypto_user_720,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.31,0.31
+raw_0191,2025-05-29 07:00:00,Twitter,crypto_user_876,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.66,0.66
+raw_0192,2025-05-19 03:00:00,Twitter,crypto_user_370,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.65,0.65
+raw_0193,2025-05-18 12:00:00,Twitter,crypto_user_563,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.03,-0.03
+raw_0194,2025-05-13 07:00:00,Twitter,crypto_user_439,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.05,-0.05
+raw_0195,2025-05-20 02:00:00,LIHKG,crypto_user_674,High fees on licensed exchanges compared to DEXs. Why bother?,-0.53,-0.53
+raw_0196,2025-05-10 09:00:00,LIHKG,crypto_user_718,HashKey vs OSL - which one has better liquidity?,0.08,0.08
+raw_0197,2025-05-04 07:00:00,LIHKG,crypto_user_157,HashKey vs OSL - which one has better liquidity?,0.05,0.05
+raw_0198,2025-05-21 00:00:00,Twitter,crypto_user_910,Withdrawal took longer than expected. Still better than nothing I guess.,-0.51,-0.51
+raw_0199,2025-05-27 04:00:00,LIHKG,crypto_user_923,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.71,0.71
+raw_0200,2025-05-29 14:00:00,Twitter,crypto_user_620,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.78,0.78
+raw_0201,2025-05-16 01:00:00,Twitter,crypto_user_730,High fees on licensed exchanges compared to DEXs. Why bother?,-0.44,-0.44
+raw_0202,2025-05-15 17:00:00,Twitter,crypto_user_120,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.05,0.05
+raw_0203,2025-05-29 18:00:00,Twitter,crypto_user_539,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.4,0.4
+raw_0204,2025-05-20 23:00:00,LIHKG,crypto_user_520,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.68,0.68
+raw_0205,2025-05-20 11:00:00,Twitter,crypto_user_817,Anyone using HashKey for institutional custody? Looking for reviews.,0.03,0.03
+raw_0206,2025-05-15 15:00:00,LIHKG,crypto_user_121,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.04,-0.04
+raw_0207,2025-05-19 01:00:00,LIHKG,crypto_user_624,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.75,-0.75
+raw_0208,2025-05-14 16:00:00,LIHKG,crypto_user_282,HashKey vs OSL - which one has better liquidity?,-0.03,-0.03
+raw_0209,2025-05-17 15:00:00,Twitter,crypto_user_429,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.53,0.53
+raw_0210,2025-05-06 09:00:00,Twitter,crypto_user_389,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.55,0.55
+raw_0211,2025-05-15 14:00:00,Twitter,crypto_user_374,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.66,0.66
+raw_0212,2025-05-28 22:00:00,Telegram,crypto_user_809,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.12,0.12
+raw_0213,2025-05-15 00:00:00,Telegram,crypto_user_564,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.07,-0.07
+raw_0214,2025-05-28 06:00:00,LIHKG,crypto_user_266,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.6,-0.6
+raw_0215,2025-05-19 23:00:00,Twitter,crypto_user_453,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.18,-0.18
+raw_0216,2025-05-12 08:00:00,LIHKG,crypto_user_396,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.2,0.2
+raw_0217,2025-05-13 20:00:00,Telegram,crypto_user_378,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.49,0.49
+raw_0218,2025-05-20 11:00:00,LIHKG,crypto_user_229,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.41,0.41
+raw_0219,2025-05-23 22:00:00,Twitter,crypto_user_975,HashKey vs OSL - which one has better liquidity?,0.01,0.01
+raw_0220,2025-05-06 03:00:00,LIHKG,crypto_user_201,SFC's new guidelines on VATP are out. Interesting developments.,0.03,0.03
+raw_0221,2025-05-05 06:00:00,LIHKG,crypto_user_405,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.68,0.68
+raw_0222,2025-05-21 09:00:00,Twitter,crypto_user_979,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.34,0.34
+raw_0223,2025-05-01 07:00:00,Telegram,crypto_user_214,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.4,-0.4
+raw_0224,2025-05-25 07:00:00,Telegram,crypto_user_139,SFC's new guidelines on VATP are out. Interesting developments.,0.09,0.09
+raw_0225,2025-05-05 06:00:00,Telegram,crypto_user_801,Withdrawal took longer than expected. Still better than nothing I guess.,-0.19,-0.19
+raw_0226,2025-05-09 00:00:00,LIHKG,crypto_user_384,Bitcoin price holding steady at $100k. #BTC,0.08,0.08
+raw_0227,2025-05-07 21:00:00,Twitter,crypto_user_755,Anyone using HashKey for institutional custody? Looking for reviews.,-0.06,-0.06
+raw_0228,2025-05-30 06:00:00,Telegram,crypto_user_226,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.18,0.18
+raw_0229,2025-05-18 06:00:00,Twitter,crypto_user_339,Anyone using HashKey for institutional custody? Looking for reviews.,0.01,0.01
+raw_0230,2025-05-26 05:00:00,Twitter,crypto_user_334,Withdrawal took longer than expected. Still better than nothing I guess.,-0.33,-0.33
+raw_0231,2025-05-15 16:00:00,LIHKG,crypto_user_915,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.19,0.19
+raw_0232,2025-05-12 13:00:00,Telegram,crypto_user_920,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.46,0.46
+raw_0233,2025-05-02 00:00:00,LIHKG,crypto_user_437,Checking out the new HashKey update. #HKWeb3 #Crypto,0.09,0.09
+raw_0234,2025-05-10 08:00:00,Telegram,crypto_user_128,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.74,0.74
+raw_0235,2025-05-18 03:00:00,Twitter,crypto_user_611,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.73,0.73
+raw_0236,2025-05-10 04:00:00,LIHKG,crypto_user_340,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.6,-0.6
+raw_0237,2025-05-18 06:00:00,Telegram,crypto_user_905,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.59,0.59
+raw_0238,2025-05-30 22:00:00,LIHKG,crypto_user_868,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.45,0.45
+raw_0239,2025-05-06 15:00:00,Twitter,crypto_user_122,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.34,0.34
+raw_0240,2025-05-01 05:00:00,Twitter,crypto_user_682,HashKey vs OSL - which one has better liquidity?,-0.06,-0.06
+raw_0241,2025-05-03 19:00:00,LIHKG,crypto_user_837,Bitcoin price holding steady at $100k. #BTC,0.01,0.01
+raw_0242,2025-05-05 08:00:00,LIHKG,crypto_user_326,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.62,-0.62
+raw_0243,2025-05-03 12:00:00,LIHKG,crypto_user_433,Bitcoin price holding steady at $100k. #BTC,-0.0,-0.0
+raw_0244,2025-05-25 00:00:00,Telegram,crypto_user_482,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.36,-0.36
+raw_0245,2025-05-10 07:00:00,Telegram,crypto_user_662,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.58,-0.58
+raw_0246,2025-05-04 15:00:00,LIHKG,crypto_user_948,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.54,0.54
+raw_0247,2025-05-24 17:00:00,Twitter,crypto_user_827,Checking out the new HashKey update. #HKWeb3 #Crypto,0.01,0.01
+raw_0248,2025-05-08 19:00:00,Twitter,crypto_user_866,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.5,0.5
+raw_0249,2025-05-24 08:00:00,LIHKG,crypto_user_953,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.58,-0.58
+raw_0250,2025-05-04 23:00:00,Telegram,crypto_user_765,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.26,-0.26
+raw_0251,2025-05-27 18:00:00,LIHKG,crypto_user_252,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.06,-0.06
+raw_0252,2025-05-06 17:00:00,LIHKG,crypto_user_293,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.29,0.29
+raw_0253,2025-05-30 08:00:00,Telegram,crypto_user_823,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.09,-0.09
+raw_0254,2025-05-25 12:00:00,Twitter,crypto_user_503,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.43,-0.43
+raw_0255,2025-05-02 20:00:00,LIHKG,crypto_user_436,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.48,0.48
+raw_0256,2025-05-19 18:00:00,Twitter,crypto_user_434,SFC's new guidelines on VATP are out. Interesting developments.,-0.07,-0.07
+raw_0257,2025-05-18 15:00:00,Twitter,crypto_user_421,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.27,0.27
+raw_0258,2025-05-29 04:00:00,Telegram,crypto_user_821,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.53,-0.53
+raw_0259,2025-05-06 06:00:00,LIHKG,crypto_user_773,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.16,0.16
+raw_0260,2025-05-21 11:00:00,Telegram,crypto_user_163,Withdrawal took longer than expected. Still better than nothing I guess.,-0.29,-0.29
+raw_0261,2025-05-28 05:00:00,Twitter,crypto_user_742,SFC's new guidelines on VATP are out. Interesting developments.,-0.09,-0.09
+raw_0262,2025-05-09 10:00:00,LIHKG,crypto_user_113,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.72,-0.72
+raw_0263,2025-05-18 15:00:00,Telegram,crypto_user_613,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.02,0.02
+raw_0264,2025-05-30 09:00:00,Twitter,crypto_user_414,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.6,-0.6
+raw_0265,2025-05-09 06:00:00,Twitter,crypto_user_681,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.03,-0.03
+raw_0266,2025-05-17 04:00:00,Telegram,crypto_user_406,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.35,0.35
+raw_0267,2025-05-28 06:00:00,Telegram,crypto_user_502,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.07,-0.07
+raw_0268,2025-05-25 01:00:00,Twitter,crypto_user_400,No USDT pairs? This is so restrictive for active traders.,-0.56,-0.56
+raw_0269,2025-05-12 03:00:00,LIHKG,crypto_user_958,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.44,-0.44
+raw_0270,2025-05-21 14:00:00,LIHKG,crypto_user_408,Bitcoin price holding steady at $100k. #BTC,-0.03,-0.03
+raw_0271,2025-05-31 03:00:00,Twitter,crypto_user_951,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.56,0.56
+raw_0272,2025-05-28 02:00:00,Telegram,crypto_user_476,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.02,0.02
+raw_0273,2025-05-28 08:00:00,Twitter,crypto_user_429,Bitcoin price holding steady at $100k. #BTC,0.03,0.03
+raw_0274,2025-05-02 12:00:00,Telegram,crypto_user_421,SFC's new guidelines on VATP are out. Interesting developments.,-0.1,-0.1
+raw_0275,2025-05-16 03:00:00,LIHKG,crypto_user_350,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.16,0.16
+raw_0276,2025-05-07 01:00:00,Twitter,crypto_user_296,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.19,-0.19
+raw_0277,2025-05-18 02:00:00,Twitter,crypto_user_799,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.37,0.37
+raw_0278,2025-05-11 09:00:00,Telegram,crypto_user_785,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.74,-0.74
+raw_0279,2025-05-16 18:00:00,LIHKG,crypto_user_641,SFC's new guidelines on VATP are out. Interesting developments.,-0.09,-0.09
+raw_0280,2025-05-05 00:00:00,Telegram,crypto_user_775,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.01,-0.01
+raw_0281,2025-05-10 09:00:00,Twitter,crypto_user_635,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.54,0.54
+raw_0282,2025-05-02 14:00:00,Telegram,crypto_user_840,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.52,-0.52
+raw_0283,2025-05-14 10:00:00,Twitter,crypto_user_212,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.29,-0.29
+raw_0284,2025-05-28 23:00:00,LIHKG,crypto_user_346,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.46,0.46
+raw_0285,2025-05-05 13:00:00,Telegram,crypto_user_140,No USDT pairs? This is so restrictive for active traders.,-0.75,-0.75
+raw_0286,2025-05-28 19:00:00,LIHKG,crypto_user_853,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.15,0.15
+raw_0287,2025-05-01 13:00:00,Twitter,crypto_user_233,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.23,0.23
+raw_0288,2025-05-17 02:00:00,Twitter,crypto_user_671,Anyone using HashKey for institutional custody? Looking for reviews.,0.09,0.09
+raw_0289,2025-05-14 04:00:00,Twitter,crypto_user_160,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.43,0.43
+raw_0290,2025-05-09 12:00:00,LIHKG,crypto_user_605,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.6,0.6
+raw_0291,2025-05-23 20:00:00,Twitter,crypto_user_230,No USDT pairs? This is so restrictive for active traders.,-0.52,-0.52
+raw_0292,2025-05-28 07:00:00,Telegram,crypto_user_371,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.52,0.52
+raw_0293,2025-05-12 21:00:00,LIHKG,crypto_user_736,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.5,0.5
+raw_0294,2025-05-25 06:00:00,Twitter,crypto_user_331,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.39,-0.39
+raw_0295,2025-05-30 18:00:00,Twitter,crypto_user_716,High fees on licensed exchanges compared to DEXs. Why bother?,-0.78,-0.78
+raw_0296,2025-05-11 23:00:00,LIHKG,crypto_user_405,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.67,-0.67
+raw_0297,2025-05-09 10:00:00,Telegram,crypto_user_442,High fees on licensed exchanges compared to DEXs. Why bother?,-0.5,-0.5
+raw_0298,2025-05-18 12:00:00,Twitter,crypto_user_658,No USDT pairs? This is so restrictive for active traders.,-0.47,-0.47
+raw_0299,2025-05-19 07:00:00,Twitter,crypto_user_578,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.21,0.21
+raw_0300,2025-05-30 23:00:00,Twitter,crypto_user_465,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.77,0.77
+raw_0301,2025-05-23 16:00:00,Twitter,crypto_user_697,Bitcoin price holding steady at $100k. #BTC,-0.01,-0.01
+raw_0302,2025-05-25 13:00:00,Telegram,crypto_user_365,Checking out the new HashKey update. #HKWeb3 #Crypto,0.03,0.03
+raw_0303,2025-05-09 23:00:00,Twitter,crypto_user_469,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.62,0.62
+raw_0304,2025-05-11 13:00:00,Twitter,crypto_user_526,SFC's new guidelines on VATP are out. Interesting developments.,0.08,0.08
+raw_0305,2025-05-18 01:00:00,Telegram,crypto_user_623,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.77,0.77
+raw_0306,2025-05-18 04:00:00,Twitter,crypto_user_389,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.49,0.49
+raw_0307,2025-05-03 08:00:00,LIHKG,crypto_user_248,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.6,-0.6
+raw_0308,2025-05-27 04:00:00,LIHKG,crypto_user_822,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.04,0.04
+raw_0309,2025-05-18 11:00:00,Twitter,crypto_user_775,Withdrawal took longer than expected. Still better than nothing I guess.,-0.2,-0.2
+raw_0310,2025-05-02 05:00:00,Telegram,crypto_user_898,Bitcoin price holding steady at $100k. #BTC,-0.09,-0.09
+raw_0311,2025-05-23 19:00:00,LIHKG,crypto_user_914,Withdrawal took longer than expected. Still better than nothing I guess.,-0.28,-0.28
+raw_0312,2025-05-24 19:00:00,LIHKG,crypto_user_281,HashKey vs OSL - which one has better liquidity?,-0.05,-0.05
+raw_0313,2025-05-08 14:00:00,Twitter,crypto_user_351,Checking out the new HashKey update. #HKWeb3 #Crypto,-0.06,-0.06
+raw_0314,2025-05-30 12:00:00,Twitter,crypto_user_354,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.59,0.59
+raw_0315,2025-05-06 08:00:00,Telegram,crypto_user_465,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.37,-0.37
+raw_0316,2025-05-05 20:00:00,Telegram,crypto_user_240,HashKey vs OSL - which one has better liquidity?,0.01,0.01
+raw_0317,2025-05-08 03:00:00,LIHKG,crypto_user_410,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.42,0.42
+raw_0318,2025-05-15 01:00:00,Telegram,crypto_user_307,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.28,0.28
+raw_0319,2025-05-20 10:00:00,Twitter,crypto_user_548,Anyone using HashKey for institutional custody? Looking for reviews.,0.04,0.04
+raw_0320,2025-05-08 05:00:00,Twitter,crypto_user_921,Anyone using HashKey for institutional custody? Looking for reviews.,0.09,0.09
+raw_0321,2025-05-27 19:00:00,LIHKG,crypto_user_311,HashKey vs OSL - which one has better liquidity?,-0.07,-0.07
+raw_0322,2025-05-17 07:00:00,LIHKG,crypto_user_534,SFC's new guidelines on VATP are out. Interesting developments.,0.06,0.06
+raw_0323,2025-05-04 01:00:00,Telegram,crypto_user_783,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.67,0.67
+raw_0324,2025-05-02 07:00:00,Telegram,crypto_user_443,Checking out the new HashKey update. #HKWeb3 #Crypto,0.06,0.06
+raw_0325,2025-05-22 00:00:00,Twitter,crypto_user_268,High fees on licensed exchanges compared to DEXs. Why bother?,-0.4,-0.4
+raw_0326,2025-05-26 11:00:00,LIHKG,crypto_user_545,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.44,0.44
+raw_0327,2025-05-15 02:00:00,Telegram,crypto_user_780,No USDT pairs? This is so restrictive for active traders.,-0.12,-0.12
+raw_0328,2025-05-04 09:00:00,LIHKG,crypto_user_234,Anyone using HashKey for institutional custody? Looking for reviews.,-0.03,-0.03
+raw_0329,2025-05-02 12:00:00,LIHKG,crypto_user_699,No USDT pairs? This is so restrictive for active traders.,-0.78,-0.78
+raw_0330,2025-05-12 15:00:00,LIHKG,crypto_user_969,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.21,0.21
+raw_0331,2025-05-16 08:00:00,Twitter,crypto_user_451,SFC's new guidelines on VATP are out. Interesting developments.,0.06,0.06
+raw_0332,2025-05-13 10:00:00,LIHKG,crypto_user_994,No USDT pairs? This is so restrictive for active traders.,-0.57,-0.57
+raw_0333,2025-05-29 12:00:00,Telegram,crypto_user_422,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.74,0.74
+raw_0334,2025-05-11 07:00:00,Twitter,crypto_user_587,Checking out the new HashKey update. #HKWeb3 #Crypto,0.1,0.1
+raw_0335,2025-05-15 18:00:00,Twitter,crypto_user_458,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.79,0.79
+raw_0336,2025-05-21 15:00:00,LIHKG,crypto_user_107,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.32,0.32
+raw_0337,2025-05-15 01:00:00,Telegram,crypto_user_402,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.73,0.73
+raw_0338,2025-05-30 15:00:00,Twitter,crypto_user_105,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.52,0.52
+raw_0339,2025-05-03 13:00:00,Telegram,crypto_user_120,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.54,0.54
+raw_0340,2025-05-30 03:00:00,LIHKG,crypto_user_563,Bitcoin price holding steady at $100k. #BTC,-0.01,-0.01
+raw_0341,2025-05-27 07:00:00,Twitter,crypto_user_578,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.05,0.05
+raw_0342,2025-05-11 12:00:00,Twitter,crypto_user_696,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.67,0.67
+raw_0343,2025-05-01 04:00:00,Twitter,crypto_user_770,Anyone using HashKey for institutional custody? Looking for reviews.,-0.07,-0.07
+raw_0344,2025-05-30 19:00:00,Twitter,crypto_user_375,SFC's new guidelines on VATP are out. Interesting developments.,0.0,0.0
+raw_0345,2025-05-20 00:00:00,LIHKG,crypto_user_435,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.35,0.35
+raw_0346,2025-05-15 14:00:00,Twitter,crypto_user_265,HashKey vs OSL - which one has better liquidity?,0.08,0.08
+raw_0347,2025-05-03 20:00:00,LIHKG,crypto_user_130,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.79,0.79
+raw_0348,2025-05-01 23:00:00,LIHKG,crypto_user_947,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.71,0.71
+raw_0349,2025-05-08 15:00:00,Twitter,crypto_user_875,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.32,0.32
+raw_0350,2025-05-20 11:00:00,Twitter,crypto_user_958,SFC's new guidelines on VATP are out. Interesting developments.,0.04,0.04
+raw_0351,2025-05-11 07:00:00,Telegram,crypto_user_892,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.49,0.49
+raw_0352,2025-05-13 06:00:00,Twitter,crypto_user_954,HashKey vs OSL - which one has better liquidity?,0.01,0.01
+raw_0353,2025-05-24 08:00:00,Twitter,crypto_user_294,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.46,-0.46
+raw_0354,2025-05-03 17:00:00,LIHKG,crypto_user_433,No USDT pairs? This is so restrictive for active traders.,-0.22,-0.22
+raw_0355,2025-05-21 12:00:00,Twitter,crypto_user_832,Checking out the new HashKey update. #HKWeb3 #Crypto,0.04,0.04
+raw_0356,2025-05-18 06:00:00,Twitter,crypto_user_501,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.68,-0.68
+raw_0357,2025-05-02 11:00:00,Telegram,crypto_user_413,HashKey vs OSL - which one has better liquidity?,-0.07,-0.07
+raw_0358,2025-05-26 18:00:00,Twitter,crypto_user_378,No USDT pairs? This is so restrictive for active traders.,-0.78,-0.78
+raw_0359,2025-05-31 02:00:00,Telegram,crypto_user_427,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.56,0.56
+raw_0360,2025-05-05 18:00:00,LIHKG,crypto_user_341,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.2,-0.2
+raw_0361,2025-05-03 03:00:00,LIHKG,crypto_user_476,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.61,-0.61
+raw_0362,2025-05-05 15:00:00,Twitter,crypto_user_143,No USDT pairs? This is so restrictive for active traders.,-0.45,-0.45
+raw_0363,2025-05-02 18:00:00,LIHKG,crypto_user_696,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.34,0.34
+raw_0364,2025-05-09 00:00:00,LIHKG,crypto_user_408,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.77,0.77
+raw_0365,2025-05-20 01:00:00,LIHKG,crypto_user_939,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.77,0.77
+raw_0366,2025-05-21 17:00:00,LIHKG,crypto_user_679,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.23,0.23
+raw_0367,2025-05-16 11:00:00,Telegram,crypto_user_652,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.42,0.42
+raw_0368,2025-05-03 16:00:00,Twitter,crypto_user_757,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.15,-0.15
+raw_0369,2025-05-14 13:00:00,Twitter,crypto_user_428,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.57,0.57
+raw_0370,2025-05-10 04:00:00,Telegram,crypto_user_683,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.26,-0.26
+raw_0371,2025-05-22 05:00:00,LIHKG,crypto_user_434,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.15,-0.15
+raw_0372,2025-05-02 14:00:00,LIHKG,crypto_user_903,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.09,0.09
+raw_0373,2025-05-06 15:00:00,Twitter,crypto_user_957,Checking out the new HashKey update. #HKWeb3 #Crypto,0.07,0.07
+raw_0374,2025-05-28 15:00:00,Twitter,crypto_user_756,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.5,-0.5
+raw_0375,2025-05-04 10:00:00,LIHKG,crypto_user_217,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.7,0.7
+raw_0376,2025-05-10 11:00:00,Telegram,crypto_user_303,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.53,0.53
+raw_0377,2025-05-16 00:00:00,Telegram,crypto_user_182,Checking out the new HashKey update. #HKWeb3 #Crypto,0.09,0.09
+raw_0378,2025-05-13 21:00:00,LIHKG,crypto_user_911,High fees on licensed exchanges compared to DEXs. Why bother?,-0.26,-0.26
+raw_0379,2025-05-23 22:00:00,Telegram,crypto_user_914,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.66,0.66
+raw_0380,2025-05-23 07:00:00,LIHKG,crypto_user_419,Anyone using HashKey for institutional custody? Looking for reviews.,0.06,0.06
+raw_0381,2025-05-25 15:00:00,Telegram,crypto_user_157,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.79,-0.79
+raw_0382,2025-05-30 13:00:00,Telegram,crypto_user_509,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.72,-0.72
+raw_0383,2025-05-25 10:00:00,Telegram,crypto_user_879,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.71,0.71
+raw_0384,2025-05-13 03:00:00,LIHKG,crypto_user_214,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.66,0.66
+raw_0385,2025-05-10 17:00:00,Telegram,crypto_user_233,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.3,-0.3
+raw_0386,2025-05-27 14:00:00,LIHKG,crypto_user_533,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.18,0.18
+raw_0387,2025-05-18 22:00:00,LIHKG,crypto_user_597,No USDT pairs? This is so restrictive for active traders.,-0.29,-0.29
+raw_0388,2025-05-20 15:00:00,LIHKG,crypto_user_332,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.06,-0.06
+raw_0389,2025-05-06 03:00:00,LIHKG,crypto_user_601,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.71,-0.71
+raw_0390,2025-05-28 23:00:00,Telegram,crypto_user_199,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.57,0.57
+raw_0391,2025-05-28 06:00:00,Twitter,crypto_user_910,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.1,0.1
+raw_0392,2025-05-17 05:00:00,Twitter,crypto_user_475,High fees on licensed exchanges compared to DEXs. Why bother?,-0.15,-0.15
+raw_0393,2025-05-07 16:00:00,Telegram,crypto_user_193,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.05,-0.05
+raw_0394,2025-05-29 22:00:00,Telegram,crypto_user_888,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.18,0.18
+raw_0395,2025-05-07 20:00:00,Telegram,crypto_user_773,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.39,0.39
+raw_0396,2025-05-30 11:00:00,LIHKG,crypto_user_997,Anyone using HashKey for institutional custody? Looking for reviews.,-0.01,-0.01
+raw_0397,2025-05-11 00:00:00,Twitter,crypto_user_804,Anyone using HashKey for institutional custody? Looking for reviews.,-0.04,-0.04
+raw_0398,2025-05-21 12:00:00,Telegram,crypto_user_294,SFC's new guidelines on VATP are out. Interesting developments.,0.03,0.03
+raw_0399,2025-05-15 04:00:00,Twitter,crypto_user_822,Withdrawal took longer than expected. Still better than nothing I guess.,-0.37,-0.37
+raw_0400,2025-05-30 20:00:00,Telegram,crypto_user_523,SFC's new guidelines on VATP are out. Interesting developments.,-0.01,-0.01
+raw_0401,2025-05-29 22:00:00,Telegram,crypto_user_637,High fees on licensed exchanges compared to DEXs. Why bother?,-0.22,-0.22
+raw_0402,2025-05-24 00:00:00,LIHKG,crypto_user_138,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.61,-0.61
+raw_0403,2025-05-13 06:00:00,Telegram,crypto_user_207,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.34,0.34
+raw_0404,2025-05-05 05:00:00,LIHKG,crypto_user_651,Bitcoin price holding steady at $100k. #BTC,-0.07,-0.07
+raw_0405,2025-05-07 15:00:00,Twitter,crypto_user_168,High fees on licensed exchanges compared to DEXs. Why bother?,-0.52,-0.52
+raw_0406,2025-05-16 04:00:00,Twitter,crypto_user_133,Bitcoin price holding steady at $100k. #BTC,0.02,0.02
+raw_0407,2025-05-26 11:00:00,LIHKG,crypto_user_574,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.13,-0.13
+raw_0408,2025-05-31 02:00:00,Twitter,crypto_user_482,SFC's new guidelines on VATP are out. Interesting developments.,0.03,0.03
+raw_0409,2025-05-28 17:00:00,Telegram,crypto_user_765,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.42,0.42
+raw_0410,2025-05-25 05:00:00,LIHKG,crypto_user_210,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.26,0.26
+raw_0411,2025-05-03 01:00:00,LIHKG,crypto_user_940,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.11,-0.11
+raw_0412,2025-05-22 01:00:00,LIHKG,crypto_user_221,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.31,-0.31
+raw_0413,2025-05-16 15:00:00,Telegram,crypto_user_415,Bitcoin price holding steady at $100k. #BTC,0.08,0.08
+raw_0414,2025-05-05 16:00:00,Telegram,crypto_user_319,Withdrawal took longer than expected. Still better than nothing I guess.,-0.52,-0.52
+raw_0415,2025-05-13 15:00:00,Twitter,crypto_user_248,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.04,0.04
+raw_0416,2025-05-31 07:00:00,Twitter,crypto_user_465,SFC's new guidelines on VATP are out. Interesting developments.,0.08,0.08
+raw_0417,2025-05-15 03:00:00,Telegram,crypto_user_884,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.56,-0.56
+raw_0418,2025-05-19 08:00:00,LIHKG,crypto_user_455,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.32,0.32
+raw_0419,2025-05-24 20:00:00,LIHKG,crypto_user_649,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.0,-0.0
+raw_0420,2025-05-16 10:00:00,Twitter,crypto_user_156,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.3,-0.3
+raw_0421,2025-05-24 13:00:00,LIHKG,crypto_user_243,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.37,0.37
+raw_0422,2025-05-31 11:00:00,Twitter,crypto_user_932,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.63,0.63
+raw_0423,2025-05-10 15:00:00,LIHKG,crypto_user_490,Withdrawal took longer than expected. Still better than nothing I guess.,-0.25,-0.25
+raw_0424,2025-05-30 05:00:00,Twitter,crypto_user_691,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.65,0.65
+raw_0425,2025-05-08 08:00:00,LIHKG,crypto_user_610,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.7,0.7
+raw_0426,2025-05-17 13:00:00,Twitter,crypto_user_975,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.42,0.42
+raw_0427,2025-05-15 04:00:00,Telegram,crypto_user_450,Anyone using HashKey for institutional custody? Looking for reviews.,0.03,0.03
+raw_0428,2025-05-29 10:00:00,Twitter,crypto_user_592,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.03,0.03
+raw_0429,2025-05-06 08:00:00,LIHKG,crypto_user_674,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.79,0.79
+raw_0430,2025-05-11 19:00:00,Telegram,crypto_user_437,Anyone using HashKey for institutional custody? Looking for reviews.,-0.08,-0.08
+raw_0431,2025-05-05 19:00:00,Twitter,crypto_user_819,Bitcoin price holding steady at $100k. #BTC,-0.08,-0.08
+raw_0432,2025-05-01 02:00:00,LIHKG,crypto_user_489,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.5,0.5
+raw_0433,2025-05-11 22:00:00,Telegram,crypto_user_891,Bitcoin price holding steady at $100k. #BTC,-0.04,-0.04
+raw_0434,2025-05-31 11:00:00,Telegram,crypto_user_642,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.46,0.46
+raw_0435,2025-05-31 15:00:00,Twitter,crypto_user_616,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.3,0.3
+raw_0436,2025-05-22 02:00:00,LIHKG,crypto_user_484,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.53,0.53
+raw_0437,2025-05-06 14:00:00,Telegram,crypto_user_814,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.39,0.39
+raw_0438,2025-05-29 15:00:00,Twitter,crypto_user_135,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.57,-0.57
+raw_0439,2025-05-31 23:00:00,LIHKG,crypto_user_902,Checking out the new HashKey update. #HKWeb3 #Crypto,0.07,0.07
+raw_0440,2025-05-27 11:00:00,LIHKG,crypto_user_704,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.58,0.58
+raw_0441,2025-05-28 23:00:00,LIHKG,crypto_user_185,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.43,0.43
+raw_0442,2025-05-04 16:00:00,LIHKG,crypto_user_152,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.66,0.66
+raw_0443,2025-05-15 03:00:00,Twitter,crypto_user_381,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.5,-0.5
+raw_0444,2025-05-22 16:00:00,Telegram,crypto_user_182,HashKey vs OSL - which one has better liquidity?,0.08,0.08
+raw_0445,2025-05-31 13:00:00,Telegram,crypto_user_590,No USDT pairs? This is so restrictive for active traders.,-0.36,-0.36
+raw_0446,2025-05-13 16:00:00,Telegram,crypto_user_802,Bitcoin price holding steady at $100k. #BTC,0.05,0.05
+raw_0447,2025-05-31 07:00:00,Telegram,crypto_user_904,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.36,0.36
+raw_0448,2025-05-10 19:00:00,Twitter,crypto_user_156,Bitcoin price holding steady at $100k. #BTC,0.07,0.07
+raw_0449,2025-05-06 19:00:00,Twitter,crypto_user_858,No USDT pairs? This is so restrictive for active traders.,-0.23,-0.23
+raw_0450,2025-05-25 01:00:00,Twitter,crypto_user_118,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.38,0.38
+raw_0451,2025-05-21 16:00:00,Twitter,crypto_user_254,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.36,0.36
+raw_0452,2025-05-29 03:00:00,Twitter,crypto_user_923,SFC's new guidelines on VATP are out. Interesting developments.,0.02,0.02
+raw_0453,2025-05-10 03:00:00,Twitter,crypto_user_689,Anyone using HashKey for institutional custody? Looking for reviews.,0.06,0.06
+raw_0454,2025-05-18 07:00:00,Twitter,crypto_user_606,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.64,0.64
+raw_0455,2025-05-26 09:00:00,Telegram,crypto_user_664,Anyone using HashKey for institutional custody? Looking for reviews.,-0.08,-0.08
+raw_0456,2025-05-26 02:00:00,Telegram,crypto_user_868,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.32,-0.32
+raw_0457,2025-05-17 20:00:00,Twitter,crypto_user_341,Anyone using HashKey for institutional custody? Looking for reviews.,-0.1,-0.1
+raw_0458,2025-05-15 23:00:00,LIHKG,crypto_user_379,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.05,-0.05
+raw_0459,2025-05-19 10:00:00,LIHKG,crypto_user_839,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.57,0.57
+raw_0460,2025-05-12 16:00:00,Twitter,crypto_user_126,The 'Professional Investor' requirement is so elitist. What about retail? #HKWeb3,-0.71,-0.71
+raw_0461,2025-05-06 11:00:00,Telegram,crypto_user_541,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.79,0.79
+raw_0462,2025-05-20 03:00:00,Telegram,crypto_user_335,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.53,0.53
+raw_0463,2025-05-30 12:00:00,LIHKG,crypto_user_699,HashKey vs OSL - which one has better liquidity?,-0.05,-0.05
+raw_0464,2025-05-26 20:00:00,LIHKG,crypto_user_880,Checking out the new HashKey update. #HKWeb3 #Crypto,0.06,0.06
+raw_0465,2025-05-24 06:00:00,Telegram,crypto_user_999,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.49,0.49
+raw_0466,2025-05-04 08:00:00,Telegram,crypto_user_365,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.76,0.76
+raw_0467,2025-05-04 10:00:00,LIHKG,crypto_user_753,"HashKey's UI is so clean, finally a licensed exchange that feels premium! #HashKey",0.51,0.51
+raw_0468,2025-05-12 14:00:00,Telegram,crypto_user_805,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.48,0.48
+raw_0469,2025-05-12 23:00:00,LIHKG,crypto_user_293,Checking out the new HashKey update. #HKWeb3 #Crypto,0.05,0.05
+raw_0470,2025-05-13 19:00:00,Telegram,crypto_user_528,Anyone using HashKey for institutional custody? Looking for reviews.,0.02,0.02
+raw_0471,2025-05-01 12:00:00,Twitter,crypto_user_986,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.8,-0.8
+raw_0472,2025-05-28 15:00:00,Twitter,crypto_user_235,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.29,0.29
+raw_0473,2025-05-01 08:00:00,LIHKG,crypto_user_771,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.43,-0.43
+raw_0474,2025-05-10 19:00:00,Twitter,crypto_user_248,Checking out the new HashKey update. #HKWeb3 #Crypto,0.05,0.05
+raw_0475,2025-05-07 08:00:00,LIHKG,crypto_user_221,HashKey's fiat on-ramp is a lifesaver. Direct bank transfer is so much better than C2C.,0.64,0.64
+raw_0476,2025-05-14 23:00:00,Twitter,crypto_user_551,"Why is HashKey so boring? No memecoins, no leverage... just plain tokens. #Degen",-0.3,-0.3
+raw_0477,2025-05-08 00:00:00,Twitter,crypto_user_380,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.21,-0.21
+raw_0478,2025-05-31 11:00:00,Twitter,crypto_user_752,Anyone using HashKey for institutional custody? Looking for reviews.,-0.08,-0.08
+raw_0479,2025-05-09 11:00:00,Telegram,crypto_user_925,No USDT pairs? This is so restrictive for active traders.,-0.51,-0.51
+raw_0480,2025-05-20 03:00:00,Twitter,crypto_user_347,No USDT pairs? This is so restrictive for active traders.,-0.41,-0.41
+raw_0481,2025-05-12 12:00:00,Telegram,crypto_user_177,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.46,-0.46
+raw_0482,2025-05-06 00:00:00,Twitter,crypto_user_733,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.69,0.69
+raw_0483,2025-05-05 08:00:00,Telegram,crypto_user_127,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.69,0.69
+raw_0484,2025-05-31 17:00:00,LIHKG,crypto_user_584,HK's regulatory framework is leading the way. HashKey is the gold standard.,0.77,0.77
+raw_0485,2025-05-26 07:00:00,Telegram,crypto_user_189,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,0.04,0.04
+raw_0486,2025-05-06 06:00:00,Twitter,crypto_user_259,Withdrawal took longer than expected. Still better than nothing I guess.,-0.37,-0.37
+raw_0487,2025-05-19 19:00:00,LIHKG,crypto_user_363,Anyone using HashKey for institutional custody? Looking for reviews.,-0.03,-0.03
+raw_0488,2025-05-21 22:00:00,LIHKG,crypto_user_192,SFC's new guidelines on VATP are out. Interesting developments.,0.0,0.0
+raw_0489,2025-05-18 03:00:00,Twitter,crypto_user_231,No USDT pairs? This is so restrictive for active traders.,-0.31,-0.31
+raw_0490,2025-05-03 09:00:00,Twitter,crypto_user_783,Bitcoin Pizza Day is coming. May 22 is a big day for crypto history.,-0.05,-0.05
+raw_0491,2025-05-18 11:00:00,LIHKG,crypto_user_825,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.56,0.56
+raw_0492,2025-05-07 00:00:00,Twitter,crypto_user_786,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.61,0.61
+raw_0493,2025-05-11 10:00:00,Telegram,crypto_user_714,High fees on licensed exchanges compared to DEXs. Why bother?,-0.78,-0.78
+raw_0494,2025-05-12 01:00:00,Telegram,crypto_user_445,SFC's new guidelines on VATP are out. Interesting developments.,-0.09,-0.09
+raw_0495,2025-05-20 00:00:00,LIHKG,crypto_user_934,The safest place to hold BTC in HK. Compliance matters after FTX. #HKWeb3,0.1,0.1
+raw_0496,2025-05-19 00:00:00,LIHKG,crypto_user_835,Withdrawal took longer than expected. Still better than nothing I guess.,-0.22,-0.22
+raw_0497,2025-05-06 19:00:00,Twitter,crypto_user_421,Just finished my KYC on HashKey. Super fast and professional. Secure trading is the way.,0.3,0.3
+raw_0498,2025-05-19 14:00:00,Telegram,crypto_user_371,Strict KYC is such a pain. I miss the offshore days. #HashKey #Crypto,-0.68,-0.68
+raw_0499,2025-05-22 19:00:00,LIHKG,crypto_user_498,Excited for Bitcoin Pizza Day 2026! Can't wait to see what HashKey has planned.,0.15,0.15
