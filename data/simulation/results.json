@@ -1,0 +1,395 @@
+{
+  "pessimistic": {
+    "scenario": "pessimistic",
+    "label": "Pessimistic",
+    "round_logs": [
+      {
+        "round": 1,
+        "stimulus": "RIB Launch + Hero Film",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.15,
+            "confession_probability": 0.05,
+            "tg_join_probability": 0.1,
+            "ugc_share_probability": 0.02,
+            "kyc_conversion_probability": 0.08,
+            "stance_change": -0.05,
+            "engagement_depth": 2,
+            "reasoning": "The RAVE crash salience is low, the campaign lacks degen culture and paid promotion, and the agent finds HashKey boring despite trusting it, so engagement is minimal."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.15,
+            "confession_probability": 0.05,
+            "tg_join_probability": 0.1,
+            "ugc_share_probability": 0.02,
+            "kyc_conversion_probability": 0.01,
+            "stance_change": 0.0,
+            "engagement_depth": 1,
+            "reasoning": "Low crash salience and minimal social proof from KOLs/community make this agent unlikely to engage deeply, despite associating HashKey with safety."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": -0.09982301478543423,
+          "rib_submitted_pct": 0.13333333333333333,
+          "tg_joined_pct": 0.05,
+          "kyc_pct": 0.0
+        }
+      },
+      {
+        "round": 2,
+        "stimulus": "Dark Chapter Confession + Persona Quiz",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.15,
+            "confession_probability": 0.25,
+            "tg_join_probability": 0.4,
+            "ugc_share_probability": 0.3,
+            "kyc_conversion_probability": 0.1,
+            "stance_change": 0.05,
+            "engagement_depth": 2,
+            "reasoning": "Low salience of RAVE crash and weak community traction reduce engagement, but the confession mechanic offers a rare degen-coded outlet, slightly nudging interest despite HashKey's boring reputation."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.35,
+            "confession_probability": 0.2,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.4,
+            "kyc_conversion_probability": 0.15,
+            "stance_change": 0.1,
+            "engagement_depth": 3,
+            "reasoning": "Low crash salience and weak social proof reduce deep engagement, but the airdrop/fee rebate incentive and growing tombstone count moderately drive joining and sharing, while complex KYC remains a barrier."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": -0.020116246206813026,
+          "rib_submitted_pct": 0.36666666666666664,
+          "tg_joined_pct": 0.45,
+          "kyc_pct": 0.08333333333333333
+        }
+      },
+      {
+        "round": 3,
+        "stimulus": "Still Here Counter-Thread + Pizza Day Countdown",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.15,
+            "confession_probability": 0.05,
+            "tg_join_probability": 0.35,
+            "ugc_share_probability": 0.1,
+            "kyc_conversion_probability": 0.2,
+            "stance_change": 0.1,
+            "engagement_depth": 2,
+            "reasoning": "The airdrop scarcity mechanic and physical event create mild FOMO, but the agent's perception of HashKey as 'boring' and lack of degen culture suppress deep engagement despite the reliable brand trust."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.25,
+            "confession_probability": 0.15,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.35,
+            "kyc_conversion_probability": 0.1,
+            "stance_change": 0.15,
+            "engagement_depth": 3,
+            "reasoning": "The agent's high trust in HashKey's reliability and the limited-time airdrop mechanic create moderate engagement, but complex KYC and high fees remain strong barriers to conversion."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.12135134524450475,
+          "rib_submitted_pct": 0.5,
+          "tg_joined_pct": 0.6833333333333333,
+          "kyc_pct": 0.13333333333333333
+        }
+      }
+    ],
+    "final_rates_sample": {
+      "cultural_native": {
+        "rib_submitted": 0.5,
+        "confessed": 0.4642857142857143,
+        "tg_joined": 0.6428571428571429,
+        "ugc_shared": 0.25,
+        "kyc_completed": 0.14285714285714285
+      },
+      "cautious_explorer": {
+        "rib_submitted": 0.5,
+        "confessed": 0.46875,
+        "tg_joined": 0.71875,
+        "ugc_shared": 0.71875,
+        "kyc_completed": 0.125
+      }
+    },
+    "predicted_metrics": {
+      "tg_members_by_may22": 10000,
+      "rib_total_submissions": 13500,
+      "confess_unique_submissions": 20270,
+      "kyc_airdrop_accounts": 7982,
+      "trust_engagement_gap_jul": 1.63,
+      "boring_association_jul": "27.7%",
+      "mean_stance_final": 0.1214,
+      "mean_stance_change": 0.2114,
+      "pct_positive_stance": "53.3%"
+    },
+    "agent_count": 60,
+    "timestamp": "2026-04-26T14:58:35.399345"
+  },
+  "base": {
+    "scenario": "base",
+    "label": "Base",
+    "round_logs": [
+      {
+        "round": 1,
+        "stimulus": "RIB Launch + Hero Film",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.75,
+            "confession_probability": 0.4,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.2,
+            "kyc_conversion_probability": 0.1,
+            "stance_change": 0.15,
+            "engagement_depth": 4,
+            "reasoning": "The RAVE crash salience and degen identity drive high tombstone submission and moderate community engagement, but low KYC due to perceived boringness of licensed exchanges."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.72,
+            "confession_probability": 0.45,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.3,
+            "kyc_conversion_probability": 0.25,
+            "stance_change": 0.15,
+            "engagement_depth": 3,
+            "reasoning": "The agent's moderate trust in HashKey and high RAVE crash salience drive tombstone submission, but complex KYC and fee concerns limit deeper conversion."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.06290283877630673,
+          "rib_submitted_pct": 0.8166666666666667,
+          "tg_joined_pct": 0.75,
+          "kyc_pct": 0.1
+        }
+      },
+      {
+        "round": 2,
+        "stimulus": "Dark Chapter Confession + Persona Quiz",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.75,
+            "confession_probability": 0.6,
+            "tg_join_probability": 0.85,
+            "ugc_share_probability": 0.55,
+            "kyc_conversion_probability": 0.2,
+            "stance_change": 0.15,
+            "engagement_depth": 4,
+            "reasoning": "The RAVE crash salience and tombstone mechanic align with the agent's degen identity and community-driven speculation, but low relatability and lack of degen culture limit deeper brand conversion."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.45,
+            "confession_probability": 0.3,
+            "tg_join_probability": 0.7,
+            "ugc_share_probability": 0.55,
+            "kyc_conversion_probability": 0.2,
+            "stance_change": 0.15,
+            "engagement_depth": 3,
+            "reasoning": "Moderate social proof from 200+ tombstones and 63% Pizza Day awareness drive rib submission and quiz sharing, but complex KYC and high fees keep KYC conversion low despite improved brand trust."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.21425792225728635,
+          "rib_submitted_pct": 0.8833333333333333,
+          "tg_joined_pct": 0.9666666666666667,
+          "kyc_pct": 0.35
+        }
+      },
+      {
+        "round": 3,
+        "stimulus": "Still Here Counter-Thread + Pizza Day Countdown",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.65,
+            "confession_probability": 0.4,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.3,
+            "kyc_conversion_probability": 0.25,
+            "stance_change": 0.15,
+            "engagement_depth": 3,
+            "reasoning": "The scarcity airdrop mechanic and cultural tombstone submission align with degen speculation, but HashKey's boring reputation and lack of degen culture limit deeper engagement."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.72,
+            "confession_probability": 0.45,
+            "tg_join_probability": 0.85,
+            "ugc_share_probability": 0.6,
+            "kyc_conversion_probability": 0.38,
+            "stance_change": 0.3,
+            "engagement_depth": 4,
+            "reasoning": "The agent's high trust in HashKey's reliability and the scarcity-driven airdrop incentive outweigh KYC complexity concerns, but social proof from the RIB wave and KOL partnerships is needed to push them past the barrier."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.45391347362215756,
+          "rib_submitted_pct": 0.9333333333333333,
+          "tg_joined_pct": 1.0,
+          "kyc_pct": 0.55
+        }
+      }
+    ],
+    "final_rates_sample": {
+      "cultural_native": {
+        "rib_submitted": 0.9642857142857143,
+        "confessed": 0.8928571428571429,
+        "tg_joined": 1.0,
+        "ugc_shared": 0.7857142857142857,
+        "kyc_completed": 0.5
+      },
+      "cautious_explorer": {
+        "rib_submitted": 0.90625,
+        "confessed": 0.8125,
+        "tg_joined": 1.0,
+        "ugc_shared": 0.78125,
+        "kyc_completed": 0.59375
+      }
+    },
+    "predicted_metrics": {
+      "tg_members_by_may22": 10000,
+      "rib_total_submissions": 43392,
+      "confess_unique_submissions": 62522,
+      "kyc_airdrop_accounts": 10001,
+      "trust_engagement_gap_jul": 1.0,
+      "boring_association_jul": "18.9%",
+      "mean_stance_final": 0.4539,
+      "mean_stance_change": 0.5439,
+      "pct_positive_stance": "93.3%"
+    },
+    "agent_count": 60,
+    "timestamp": "2026-04-26T14:58:53.902787"
+  },
+  "optimistic": {
+    "scenario": "optimistic",
+    "label": "Optimistic",
+    "round_logs": [
+      {
+        "round": 1,
+        "stimulus": "RIB Launch + Hero Film",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.85,
+            "confession_probability": 0.65,
+            "tg_join_probability": 0.75,
+            "ugc_share_probability": 0.55,
+            "kyc_conversion_probability": 0.2,
+            "stance_change": 0.3,
+            "engagement_depth": 4,
+            "reasoning": "High RAVE crash salience and degen identity drive strong engagement with the memorial wall and Telegram, but low relatability and lack of degen culture still suppress KYC conversion."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.65,
+            "confession_probability": 0.4,
+            "tg_join_probability": 0.55,
+            "ugc_share_probability": 0.5,
+            "kyc_conversion_probability": 0.2,
+            "stance_change": 0.2,
+            "engagement_depth": 3,
+            "reasoning": "The RAVE crash salience and viral RIB thread create strong social proof and emotional resonance, but the agent's high barrier from complex KYC and reliance on social proof limits deeper conversion despite the airdrop/fee rebate incentive appeal."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.1703927139357629,
+          "rib_submitted_pct": 0.75,
+          "tg_joined_pct": 0.7333333333333333,
+          "kyc_pct": 0.25
+        }
+      },
+      {
+        "round": 2,
+        "stimulus": "Dark Chapter Confession + Persona Quiz",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.85,
+            "confession_probability": 0.65,
+            "tg_join_probability": 0.75,
+            "ugc_share_probability": 0.8,
+            "kyc_conversion_probability": 0.15,
+            "stance_change": 0.2,
+            "engagement_depth": 4,
+            "reasoning": "High RAVE crash salience and community anger drive strong engagement with the RIB wall and dark confessions, but the lack of degen culture and low relatability keep KYC conversion low despite the viral, community-driven campaign mechanics."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.65,
+            "confession_probability": 0.45,
+            "tg_join_probability": 0.7,
+            "ugc_share_probability": 0.55,
+            "kyc_conversion_probability": 0.3,
+            "stance_change": 0.15,
+            "engagement_depth": 3,
+            "reasoning": "High RAVE crash salience and social proof from viral KOL amplification drive this agent to engage with community mourning (RIB) and join the Telegram channel, but complex KYC and high fees still suppress full conversion."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.3474819831849742,
+          "rib_submitted_pct": 0.9166666666666666,
+          "tg_joined_pct": 0.9333333333333333,
+          "kyc_pct": 0.35
+        }
+      },
+      {
+        "round": 3,
+        "stimulus": "Still Here Counter-Thread + Pizza Day Countdown",
+        "reactions": {
+          "cultural_native": {
+            "rib_submission_probability": 0.85,
+            "confession_probability": 0.6,
+            "tg_join_probability": 0.9,
+            "ugc_share_probability": 0.75,
+            "kyc_conversion_probability": 0.25,
+            "stance_change": 0.3,
+            "engagement_depth": 4,
+            "reasoning": "The agent's degen identity and high RAVE crash salience drive strong engagement with the viral RIB campaign, but the low relatability of HashKey and lack of degen culture limit KYC conversion despite the exclusive airdrop incentive."
+          },
+          "cautious_explorer": {
+            "rib_submission_probability": 0.72,
+            "confession_probability": 0.45,
+            "tg_join_probability": 0.68,
+            "ugc_share_probability": 0.55,
+            "kyc_conversion_probability": 0.38,
+            "stance_change": 0.25,
+            "engagement_depth": 4,
+            "reasoning": "The agent's high trust in HashKey's reliability and the scarcity airdrop mechanic strongly motivate engagement, but complex KYC and high fees remain barriers to full conversion."
+          }
+        },
+        "agent_snapshot": {
+          "mean_stance": 0.6347327716885659,
+          "rib_submitted_pct": 0.9833333333333333,
+          "tg_joined_pct": 0.9666666666666667,
+          "kyc_pct": 0.55
+        }
+      }
+    ],
+    "final_rates_sample": {
+      "cultural_native": {
+        "rib_submitted": 1.0,
+        "confessed": 1.0,
+        "tg_joined": 0.9642857142857143,
+        "ugc_shared": 1.0,
+        "kyc_completed": 0.4642857142857143
+      },
+      "cautious_explorer": {
+        "rib_submitted": 0.96875,
+        "confessed": 0.875,
+        "tg_joined": 0.96875,
+        "ugc_shared": 0.84375,
+        "kyc_completed": 0.625
+      }
+    },
+    "predicted_metrics": {
+      "tg_members_by_may22": 10000,
+      "rib_total_submissions": 65250,
+      "confess_unique_submissions": 100140,
+      "kyc_airdrop_accounts": 10001,
+      "trust_engagement_gap_jul": 1.0,
+      "boring_association_jul": "17.4%",
+      "mean_stance_final": 0.6347,
+      "mean_stance_change": 0.7247,
+      "pct_positive_stance": "100.0%"
+    },
+    "agent_count": 60,
+    "timestamp": "2026-04-26T14:59:12.295642"
+  }
+}
