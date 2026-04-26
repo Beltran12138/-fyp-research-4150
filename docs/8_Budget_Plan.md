@@ -17,12 +17,12 @@ All costs are expressed in Hong Kong Dollars (HKD). Where unit costs are variabl
 
 | Placement | Format | Duration | Unit Cost (HKD/month) | Total (HKD) |
 |---|---|---|---|---|
-| MTR Central Station — concourse lightboxes | Static + digital | 3 months (Feb–Apr) | 100,000 | 300,000 |
-| Causeway Bay — DOOH near Times Square | 15-second loop | 3 months (Feb–Apr) | 130,000 | 390,000 |
+| MTR Central Station — concourse lightboxes (×4 units) | Static 4-sheet lightbox | 3 months (Feb–Apr) | 100,000 | 300,000 |
+| Causeway Bay — DOOH near Times Square | 15-second loop, digital panel | 3 months (Feb–Apr) | 130,000 | 390,000 |
 | Sham Shui Po — street-level flyposting + stickers | Flyposting | Campaign duration | 15,000 (flat) | 15,000 |
 | **OOH Subtotal** | | | | **705,000** |
 
-*OOH is the campaign's sole above-the-line paid media channel. Per the No Paid Social Principle (Section 4.5.5), no paid digital media is purchased. OOH is selected for Segment B (Cautious Explorers) in financial district and youth culture corridors where paid promotion is not subject to the same credibility destruction effect that paid social triggers in crypto-native audiences.*
+*Rate basis: MTR 4-sheet lightbox units are priced at HK$15,000–32,000 per unit per 2-week cycle at standard stations; Central Station commands a 20–40% premium uplift as a Category A station (Adintime HK, 2026). Four-unit booking at HK$25,000/unit/fortnight = HK$100,000/month is within confirmed market range. CWB DOOH market average is HK$72,000/month, range HK$30,000–200,000+; Times Square proximity commands premium positioning at HK$130,000/month (Adintime HK, 2026). OOH is the campaign's sole above-the-line paid media channel — per the No Paid Social Principle (Section 4.5.5), no paid digital media is purchased.*
 
 ---
 
@@ -47,6 +47,7 @@ All costs are expressed in Hong Kong Dollars (HKD). Where unit costs are variabl
 | RIB microsite development | Tombstone submission system, community-built wall display, mobile-first, GitHub Pages deployment | 35,000 |
 | Pizza Personas quiz web app | 5-question quiz logic, result calculation, result card generation, social sharing mechanic, multilingual toggle | 30,000 |
 | Developer Infrastructure (SkillHub + hkx CLI) | SkillHub repository and documentation site; hkx CLI npm package; KYA Agent Registry; hashkey.com/hkx integration | 150,000 |
+| GEO Infrastructure (llms.txt + JSON-LD + Quick Answer blocks) | Deployment to GitHub Pages (zero hosting cost); schema authoring and QA integrated into developer sprint | 0 |
 | **Technology Subtotal** | | **300,000** |
 
 ---
@@ -151,6 +152,6 @@ The C1 effective CPA of HK$79 per KYC-completed account reflects the campaign's 
 
 ---
 
-*Sources: Allen, D. W. E., Berg, C., & Lane, A. M. (2023). Why airdrop cryptocurrency tokens? Journal of Business Research, 163, Article 113945. https://doi.org/10.1016/j.jbusres.2023.113945; Belch, G. E., & Belch, M. A. (2021). Advertising and promotion: An integrated marketing communications perspective (12th ed.). McGraw-Hill; Section 4.5.5 (No Paid Social Principle); Section 5.3 (OOH execution); Section 5.4 (Pizza Day Activation); Section 6 (simulation findings); Section 4.4.5 (conversion objectives C1–C3).*
+*Sources: Adintime HK. (2026). Hong Kong outdoor advertising cost report 2026. https://adintime.hk/en/blog/hong-kong-outdoor-advertising-cost-report-n207; Adintime HK. (2026). OOH/DOOH advertising in Hong Kong: Formats and rates. https://adintime.hk/en/blog/ooh-dooh-advertising-in-hong-kong-formats-and-rates-n95; Allen, D. W. E., Berg, C., & Lane, A. M. (2023). Why airdrop cryptocurrency tokens? Journal of Business Research, 163, Article 113945. https://doi.org/10.1016/j.jbusres.2023.113945; Belch, G. E., & Belch, M. A. (2021). Advertising and promotion: An integrated marketing communications perspective (12th ed.). McGraw-Hill; Section 4.5.5 (No Paid Social Principle); Section 5.3 (OOH execution); Section 5.4 (Pizza Day Activation); Section 5.8 (GEO infrastructure — zero incremental cost); Section 6 (simulation findings); Section 4.4.5 (conversion objectives C1–C3).*
 
 *Section 8 | ZHAO Han (1155191400) | CUHK COMM4150 | Supervisor: Prof. Donna Chu*
