@@ -67,42 +67,59 @@ The Trust-Engagement Gap (Δ) is calculated as: Δ = Asset Security Trust score 
 
 ---
 
+### 9.2.5 Measurement Calendar
+
+| Instrument | Period | Objectives covered |
+|---|---|---|
+| Platform analytics (X/Twitter, Telegram, Bot, GA4) | Daily: Feb 1 – Jun 30 | A1, E1, E2, E3, C1, C2 |
+| UTM / QR attribution tracking | Continuous: Feb 1 – Jun 30 | C2 |
+| Go/No-Go Gate 1 review | Mar 28 | Leading indicators for A1, E1, E2 |
+| Mid-campaign pulse survey (N≥100) | Apr 15–30 | A2, A3 (interim) |
+| Go/No-Go Gate 2 review | May 14 | C1, E1 + logistics readiness |
+| Post-event qualitative interviews (N=10–15) | May 23 – Jun 7 | Q1–Q4 |
+| 30-day retention measurement (C3) | Jun 22 | C3 |
+| Post-campaign tracking survey (N≥287) | Jul 1–14 | P1, P2, P3, P4, A3 |
+| Evaluation report | Jul 31 | All objectives |
+
+---
+
 ## 9.3 Quantitative KPI Dashboard
 
-All thirteen campaign objectives (Section 4.4.6) are measured against defined targets by the deadlines specified. The dashboard below provides the consolidated tracking framework:
+### Campaign Verdict Criteria
 
-### Primary (Brand Health) Objectives
+The campaign is declared a **strategic success** if all three of the following conditions are simultaneously met:
 
-| Code | Objective | Baseline | Target | Deadline | Measurement Instrument | Status Check Frequency |
+| # | Condition | Rationale |
+|---|---|---|
+| 1 | **P1 met:** Trust-Engagement Gap Δ ≤ 1.75 | Primary strategic objective — the gap must narrow for repositioning to be evidenced |
+| 2 | **C1 met:** KYC-verified airdrop accounts ≥ 10,001 | Primary conversion objective — community formation must translate to measurable acquisition |
+| 3 | **P3 not breached:** Asset Security Trust M ≥ 5.00 | Floor constraint — Safe Punk positioning must not erode the trust advantage that is HashKey's sole existing brand equity |
+
+Meeting P1 and C1 while breaching P3 constitutes a **partial success with strategic risk**: the campaign acquired users but damaged the compliance credibility on which the brand's positioning depends. Meeting only C1 (conversion without repositioning) constitutes a **tactical success but strategic failure**: the campaign function as an acquisition promotion rather than a cultural repositioning.
+
+All thirteen objectives are tracked below. The three verdict conditions above take precedence in any overall campaign assessment.
+
+---
+
+All thirteen campaign objectives (Section 4.4.6) are measured against defined targets by the deadlines specified:
+
+| Code | Category | Objective | Baseline | Target | Deadline | Measurement Instrument |
 |---|---|---|---|---|---|---|
-| P1 | Trust-Engagement Gap (Δ) | 2.52 | ≤ 1.75 | 31 Jul 2026 | Post-campaign tracking survey (N≥287) | Single post-campaign measure |
-| P2 | Brand Relatability | M = 2.75 / 7 | M ≥ 3.50 / 7 | 31 Jul 2026 | Post-campaign tracking survey | Single post-campaign measure |
-| P3 | Asset Security Trust (floor) | M = 5.27 / 7 | M ≥ 5.00 / 7 | 31 Jul 2026 | Post-campaign tracking survey | Single post-campaign measure |
-| P4 | "Boring" word association | 39.4% | < 25% | 31 Jul 2026 | Post-campaign word association battery | Single post-campaign measure |
+| **P1** ★ | Brand Health | Trust-Engagement Gap (Δ) | 2.52 | ≤ 1.75 | 31 Jul 2026 | Post-campaign tracking survey (N≥287) |
+| **P2** | Brand Health | Brand Relatability | M = 2.75/7 | M ≥ 3.50/7 | 31 Jul 2026 | Post-campaign tracking survey |
+| **P3** ★ | Brand Health | Asset Security Trust (floor) | M = 5.27/7 | M ≥ 5.00/7 | 31 Jul 2026 | Post-campaign tracking survey |
+| **P4** | Brand Health | "Boring" word association | 39.4% | < 25% | 31 Jul 2026 | Post-campaign word association battery |
+| **A1** | Awareness | Unique impressions (TG + X combined) | ~0 | 500,000 | 21 May 2026 | Platform analytics |
+| **A2** | Awareness | HashKey × Pizza Day brand association | ~0% | ≥ 40% | 22 May 2026 | Mid-campaign pulse survey (N≥100) |
+| **A3** | Awareness | "Safe Punk" concept recognition | ~0% | ≥ 50% (18–24 cohort) | 31 May 2026 | Post-campaign tracking survey |
+| **E1** ★ | Engagement | @HashKey0xU members (40% active) | 0 | 5,000 | 22 May 2026 | Telegram channel analytics |
+| **E2** | Engagement | Pizza Persona UGC pieces | 0 | 2,000 | 31 May 2026 | Social listening (Brandwatch) + manual audit |
+| **E3** | Engagement | Laszlo Bot unique sessions (≥3 exchanges avg.) | 0 | 15,000 | 31 May 2026 | Bot analytics dashboard |
+| **C1** ★ | Conversion | KYC-verified airdrop accounts | 0 | 10,001 | 22 May 2026 | HashKey KYC account data |
+| **C2** | Conversion | Net-new campaign-attributed registrations | TBD | 3,000 | 30 Jun 2026 | UTM + QR + referral code tracking |
+| **C3** | Conversion | 30-day post-acquisition active trading rate | TBD | ≥ 40% | 22 Jun 2026 | Platform trading data |
 
-### Awareness Objectives
-
-| Code | Objective | Baseline | Target | Deadline | Measurement Instrument | Status Check Frequency |
-|---|---|---|---|---|---|---|
-| A1 | Unique impressions (TG + X) | ~0 | 500,000 | 21 May 2026 | Platform analytics (combined reach) | Weekly |
-| A2 | HashKey × Pizza Day association | ~0% | ≥ 40% | 22 May 2026 | Mid-campaign pulse survey (N≥100) | Single mid-campaign measure |
-| A3 | "Safe Punk" concept recognition | ~0% | ≥ 50% (18–24 cohort) | 31 May 2026 | Post-campaign tracking survey | Single post-campaign measure |
-
-### Engagement Objectives
-
-| Code | Objective | Baseline | Target | Deadline | Measurement Instrument | Status Check Frequency |
-|---|---|---|---|---|---|---|
-| E1 | @HashKey0xU members (40% active) | 0 | 5,000 | 22 May 2026 | Telegram channel analytics | Daily from Feb 1 |
-| E2 | Pizza Persona UGC pieces | 0 | 2,000 | 31 May 2026 | Social listening (Brandwatch) + manual X/TG audit | Weekly |
-| E3 | Laszlo Bot unique sessions (≥3 exchanges avg.) | 0 | 15,000 | 31 May 2026 | Bot analytics dashboard | Weekly |
-
-### Conversion Objectives
-
-| Code | Objective | Baseline | Target | Deadline | Measurement Instrument | Status Check Frequency |
-|---|---|---|---|---|---|---|
-| C1 | KYC-verified airdrop accounts | 0 | 10,001 | 22 May 2026 | HashKey account data (KYC completions) | Daily from Feb 1 |
-| C2 | Net-new campaign-attributed registrations | Baseline TBD | 3,000 | 30 Jun 2026 | UTM + QR + referral code tracking | Weekly |
-| C3 | 30-day post-acquisition active trading rate | Baseline TBD | ≥ 40% | 22 Jun 2026 | Platform trading data | Single 30-day post-event measure |
+*★ = verdict condition objective (see Campaign Verdict Criteria above). E1 is included as a leading indicator for C1: without community formation, KYC conversion cannot reach the 10,001 cap (Section 6, Finding 4).*
 
 ### Simulation Benchmark Comparison
 
@@ -171,6 +188,6 @@ Four qualitative dimensions will be evaluated through social listening analysis 
 
 ---
 
-*Sources: Colley, R. H. (1961). Defining advertising goals for measured advertising results. Association of National Advertisers; Muniz, A. M., & O'Guinn, T. C. (2001). Brand community. Journal of Consumer Research, 27(4), 412–432. https://doi.org/10.1086/319618; Ogden, C. (2019). Killed by Google. https://killedbygoogle.com/; Schultz, D. E., & Schultz, H. F. (2004). IMC, the next generation. McGraw-Hill; Section 2.2.4 (survey baseline data); Section 4.4 (campaign objectives); Section 6 (simulation findings); Section 7 (execution timeline and measurement deadlines).*
+*Sources: Colley, R. H. (1961). Defining advertising goals for measured advertising results. Association of National Advertisers; HSJMC. (2026, March). Measurement matters: Using KPIs and dashboards to evaluate campaign success. Hubbard School of Journalism and Mass Communication. https://hsjmc.umn.edu/news/2026-03-16/using-kpis-dashboards-evaluate-campaign-success; Muniz, A. M., & O'Guinn, T. C. (2001). Brand community. Journal of Consumer Research, 27(4), 412–432. https://doi.org/10.1086/319618; Ogden, C. (2019). Killed by Google. https://killedbygoogle.com/; Schultz, D. E., & Schultz, H. F. (2004). IMC, the next generation. McGraw-Hill; Section 2.2.4 (survey baseline data); Section 4.4 (campaign objectives); Section 6 (simulation findings); Section 7 (execution timeline, measurement calendar, and Go/No-Go gate criteria).*
 
 *Section 9 | ZHAO Han (1155191400) | CUHK COMM4150 | Supervisor: Prof. Donna Chu*
