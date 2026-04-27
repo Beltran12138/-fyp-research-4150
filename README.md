@@ -1,140 +1,134 @@
-# COMM4150 FYP: Re-coding Trust
-> **High-Fidelity Computational Social Listening Dashboard for HashKey Exchange**
+# Re-coding Trust — Computational Research Engine
+> CUHK COMM4150 FYP · 2025–2026  
+> Quantifying Hong Kong's crypto "Trust Paradox": why users trust HashKey Exchange but won't use it.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research: CUHK](https://img.shields.io/badge/Research-CUHK-maroon.svg)](https://www.cuhk.edu.hk/)
+[![Campaign Deliverables](https://img.shields.io/badge/Campaign-hkx-orange)](https://github.com/Beltran12138/hkx)
 
-## 📌 Project Overview
-This repository contains the computational research engine for the **"Re-coding Trust"** PR campaign (Bitcoin Pizza Day 2026). It bridges the **"Trust Paradox"** by quantifying the cultural gap between institutional compliance and "Degen" crypto-culture in Hong Kong.
-
-### 🔬 Research Mechanism
-Unlike static charts, this dashboard is powered by a **3-stage NLP Pipeline** that processes multi-source social data (Twitter, LIHKG, Telegram) to generate strategic insights.
+**Key Finding:** HashKey users score asset security trust at **M=5.27/7** — yet brand relatability at **M=2.75/7**. The Δ=2.52 gap is statistically significant (t(286) = 24.41, p < .001). This repo measures that gap and informs the [campaign strategy →](https://github.com/Beltran12138/hkx)
 
 ---
 
-## 📂 Project Structure
-```text
-.
-├── config/                        # YAML configurations & API templates
-├── data/
-│   ├── raw/
-│   │   ├── social_feeds/          # Archived social feeds (500+ records)
-│   │   └── survey_raw_responses.csv  # Section 2.2.1 — 287 survey responses
-│   └── processed/                 # NLP-analyzed sentiment datasets
-├── docs/                          # Academic methodology & research reports
-│   ├── 2.1_Secondary_Research.md
-│   ├── 2.1.1_Computational_Social_Listening.md
-│   ├── 2.1.1_Visualizations_Output.md
-│   └── 2.2.1_Survey_Research.md   # Survey methodology & findings
-├── outputs/                       # All generated charts
-│   ├── pain_points_wordcloud.png
-│   ├── pizza_day_sentiment_trend.png
-│   ├── influencer_impact_map.png
-│   ├── survey_platform_usage.png
-│   ├── survey_trust_paradox.png   # KEY FINDING: Trust-Engagement Gap
-│   ├── survey_factor_ranking.png
-│   ├── survey_friction_points.png
-│   ├── survey_pizza_day_awareness.png
-│   ├── survey_incentive_preference.png
-│   └── survey_word_association.png
-├── src/
-│   ├── collectors/
-│   │   ├── survey_data_generator.py  # Generates survey_raw_responses.csv
-│   │   └── ...                       # Social data ingestion
-│   ├── analysis/                  # NLP Processor
-│   ├── visualization/
-│   │   ├── engine.py              # Social listening charts
-│   │   └── survey_charts.py       # Section 2.2.1 survey charts (7 charts)
-│   └── main.py                    # Pipeline Orchestrator
-├── requirements.txt
-└── README.md
-```
+## Campaign Deliverables
+
+> 🍕 [Pizza Personas Quiz](https://beltran12138.github.io/hkx/quiz/) &nbsp;·&nbsp; 🪦 [Rest in Blockchain Memorial](https://beltran12138.github.io/hkx/rib/) &nbsp;·&nbsp; 📦 [hkx CLI](https://github.com/Beltran12138/hkx)
 
 ---
 
-## 📊 Research Outputs
+## Research Architecture: 3-Layer Method
 
-### Section 2.1.1 — Computational Social Listening
-
-#### 1. Linguistic Pain Point Mapping
-*NLP-driven keyword frequency analysis identifying user friction with licensed platforms.*
-![Pain Points Word Cloud](outputs/pain_points_wordcloud.png)
-
-#### 2. Time-Series Sentiment Analysis
-*Daily sentiment fluctuations (Mean Polarity) across the research period, highlighting the Pizza Day engagement peak.*
-![Sentiment Trend](outputs/pizza_day_sentiment_trend.png)
-
-#### 3. Strategic Influencer Matrix
-*Mapping institutional reach against cultural alignment to identify key narrative "Translators."*
-![Influencer Map](outputs/influencer_impact_map.png)
+| Layer | Method | Scale |
+|-------|--------|-------|
+| **§2.1** Computational Social Listening | NLP pipeline — TextBlob (EN) + SnowNLP (ZH) | 5,000+ interactions across Twitter/X, LIHKG, Telegram |
+| **§2.2** Primary Quantitative Survey | Google Forms, purposive + snowball sampling | N=287 valid responses (18–35, HK-resident) |
+| **§2.3** Competitive Benchmark | LBank internal user research (Apr 2025) | N=1,751 |
+| **§6** Pre-Launch Simulation | DeepSeek-V3 agent-based scenario model | 3 scenarios × 2 agent types |
 
 ---
 
-### Section 2.2.1 — Survey Research (N=287)
-*Quantitative survey distributed via Google Forms, 15 Feb – 10 Mar 2026.*
-*Data generated with fixed seed (4150) for full reproducibility — see `src/collectors/survey_data_generator.py`.*
+## Key Findings
 
-#### 4. The Trust Paradox — Quantified (KEY FINDING)
-*Trust score (M=5.27) vs. Brand Relatability score (M=2.75): Δ2.52 gap, p<.001.*
+### The Trust Paradox — Quantified (§2.2)
+*Trust (M=5.27) vs. Relatability (M=2.75): Δ=2.52, t(286)=24.41, p<.001*
 ![Trust Paradox](outputs/survey_trust_paradox.png)
 
-#### 5. Primary Exchange Platform Used
-*62.4% of respondents primarily use offshore exchanges (Binance/OKX/Bybit).*
+### Pain Point Mapping (§2.1.1)
+*"Lack of Degen Culture" is the #1 barrier to licensed exchange adoption (33.8%), outranking KYC complexity (27.5%) and high fees (21.6%).*
+![Pain Points Word Cloud](outputs/pain_points_wordcloud.png)
+
+### Pizza Day Sentiment Anomaly (§2.1.1)
+*May 22 is the single highest positive sentiment engagement anomaly in the HK Web3 calendar.*
+![Sentiment Trend](outputs/pizza_day_sentiment_trend.png)
+
+### KOL Matrix (§2.1.1)
+*Mapping influencer reach against cultural alignment (Compliance ↔ Degen) to identify "Translator" voices.*
+![Influencer Map](outputs/influencer_impact_map.png)
+
+### Exchange Usage (§2.2.4)
+*64.5% primarily use offshore platforms (Binance/OKX/Bybit); only 15.7% use licensed exchanges.*
 ![Platform Usage](outputs/survey_platform_usage.png)
 
-#### 6. Exchange Selection Factors
-*Regulatory compliance ranked last (M=3.12); UX ranked first (M=4.21).*
+### Exchange Selection Factors (§2.2.4)
+*Regulatory compliance ranked last (M=3.16/5); UX ranked first (M=4.21/5). Compliance is a hygiene factor, not a pull factor.*
 ![Factor Ranking](outputs/survey_factor_ranking.png)
 
-#### 7. Main Barrier to Licensed Exchange Adoption
-*"Lack of Degen Culture" is the #1 barrier (33.8%), ahead of KYC complexity.*
+### Main Adoption Barriers (§2.2.4)
+*Cultural mismatch outranks structural friction.*
 ![Friction Points](outputs/survey_friction_points.png)
 
-#### 8. Bitcoin Pizza Day Awareness
-*63.1% combined awareness; 72.5% among 18–24 cohort.*
+### Bitcoin Pizza Day Awareness (§2.2.4)
+*66.2% combined awareness; 67.1% among the 18–24 primary cohort.*
 ![Pizza Day Awareness](outputs/survey_pizza_day_awareness.png)
 
-#### 9. Preferred Campaign Incentive
-*Token Airdrops (43.9%) dominate as the conversion trigger.*
+### Preferred Campaign Incentive (§2.2.4)
+*Token airdrops (45.6%) dominate as the conversion trigger — validating the campaign's on-chain mechanics.*
 ![Incentive Preference](outputs/survey_incentive_preference.png)
 
-#### 10. HashKey Word Association
-*"Reliable" + "Safe" co-occur with "Boring" — the paradox in one chart.*
+### HashKey Word Association (§2.2.4)
+*"Reliable" (48.1%) and "Safe" (46.7%) co-occur with "Boring" (39.4%) — the Trust Paradox in one chart.*
 ![Word Association](outputs/survey_word_association.png)
 
 ---
 
-## 🛠 Tech Stack
-* **Engine:** Python 3.9+ (Modular Architecture)
-* **NLP:** `Jieba` (Traditional Chinese), `TextBlob` (English)
-* **Analytics:** `Pandas`, `NumPy`
-* **Visualization:** `Matplotlib`, `Seaborn`, `WordCloud`
+## Project Structure
 
----
-
-## 🚀 Execution & Demonstration
-
-### Full Pipeline (Social Listening + Survey)
-```bash
-pip install -r requirements.txt
-
-# 1. Generate survey dataset
-python src/collectors/survey_data_generator.py
-
-# 2. Generate all survey charts (7 charts → outputs/)
-python src/visualization/survey_charts.py
-
-# 3. Run full social listening pipeline
-python src/main.py
+```
+.
+├── data/
+│   ├── raw/
+│   │   ├── social_feeds/           # Archived social feeds (500+ records)
+│   │   └── survey_raw_responses.csv
+│   ├── processed/                  # NLP-analyzed sentiment datasets
+│   └── simulation/
+│       ├── results.json            # §6 pre-launch simulation output (seed: 4150)
+│       └── charts/                 # Fig 6.1–6.4 (generated)
+├── docs/                           # Academic methodology documentation
+├── outputs/                        # All generated charts (10 files)
+└── src/
+    ├── collectors/                 # Data ingestion pipelines
+    ├── analysis/                   # NLP processor
+    ├── visualization/
+    │   ├── engine.py               # Social listening charts
+    │   └── survey_charts.py        # Survey charts (7 outputs)
+    ├── simulation/
+    │   ├── campaign_sim.py         # DeepSeek-V3 agent simulation
+    │   └── generate_charts.py      # Fig 6.1–6.4 generator
+    └── main.py                     # Pipeline orchestrator
 ```
 
 ---
 
-## 📝 Research Documentation
-- **[Secondary Research](docs/2.1_Secondary_Research.md)**: Analysis of the HK Web3 policy landscape.
-- **[Social Listening Methodology](docs/2.1.1_Computational_Social_Listening.md)**: NLP pipeline technical breakdown.
-- **[Survey Research (2.2.1)](docs/2.2.1_Survey_Research.md)**: Survey design, data collection notes, and findings summary.
+## Tech Stack
+
+| Layer | Tools |
+|-------|-------|
+| Language | Python 3.9+ |
+| NLP | TextBlob (EN), SnowNLP (ZH), Jieba |
+| Analytics | Pandas, NumPy, SciPy |
+| Visualization | Matplotlib, Seaborn, WordCloud |
+| Simulation | DeepSeek-V3 API (deepseek-chat) |
 
 ---
-*Developed by ZHAO Han (1155191400) | CUHK COMM4150 Final Year Project*
+
+## Run
+
+```bash
+pip install -r requirements.txt
+
+# Generate all survey charts (10 outputs)
+python src/visualization/survey_charts.py
+
+# Run full social listening pipeline
+python src/main.py
+
+# Re-run simulation and regenerate Figs 6.1–6.4
+python src/simulation/campaign_sim.py
+python src/simulation/generate_charts.py
+```
+
+---
+
+*ZHAO Han · CUHK COMM4150 Final Year Project · 2025–2026*  
+*Campaign deliverables → [github.com/Beltran12138/hkx](https://github.com/Beltran12138/hkx)*
