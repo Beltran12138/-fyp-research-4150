@@ -5,7 +5,7 @@
 
 ## 10.1 Strategic Synthesis
 
-This project began with a measurable gap. Survey data collected from 287 Hong Kong crypto-engaged adults (18–35) in February 2026 established a Trust-Engagement Gap (Δ) of 2.52 between HashKey Exchange's Asset Security Trust score (M = 5.27/7) and its Brand Relatability score (M = 2.75/7), with the difference statistically significant at *t*(286) = 18.73, *p* < .001. This gap is not a failure of HashKey's product: the exchange is SFC-licensed, operationally sound, and trusted. It is a failure of cultural communication — a brand that the target audience respects but does not recognise as belonging to the same world they inhabit.
+This project began with a measurable gap. Survey data collected from 287 Hong Kong crypto-engaged adults (18–35) in February 2026 established a Trust-Engagement Gap (Δ) of 2.52 between HashKey Exchange's Asset Security Trust score (M = 5.27/7) and its Brand Relatability score (M = 2.75/7), with the difference statistically significant at *t*(286) = 24.41, *p* < .001. This gap is not a failure of HashKey's product: the exchange is SFC-licensed, operationally sound, and trusted. It is a failure of cultural communication — a brand that the target audience respects but does not recognise as belonging to the same world they inhabit.
 
 The campaign "Re-coding Trust: The 10,001st Slice" is the response to that specific, measurable problem. Its strategic logic rests on three premises, each derived from the survey evidence:
 
